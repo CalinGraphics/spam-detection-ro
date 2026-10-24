@@ -5,6 +5,7 @@ paths:
   interim: data/interim
   processed: data/processed
   models: models
+  reports: reports
   figures: reports/figures
 
 data:
@@ -29,6 +30,9 @@ tfidf:
   char_ngram_range: [3, 5]
   max_features: 50000
   min_df: 2
+
+ablation:
+  logreg_c_grid: [1, 10, 100]  # chosen once on the TF-IDF-only model, then fixed for every feature set
 
 bert:
   model_name: dumitrescustefan/bert-base-romanian-cased-v1

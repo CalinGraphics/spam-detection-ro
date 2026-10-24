@@ -25,7 +25,7 @@ _HEADER_LINE = re.compile(
 _QUOTE_MARKER = re.compile(r"^[ \t]*(?:>[ \t]?)+", re.M)
 
 _EMAIL = re.compile(r"\b[\w.+-]+@[\w-]+(?:\.[\w-]+)+\b")
-_URL = re.compile(
+URL_PATTERN = re.compile(
     r"(?:https?://|www\.)[^\s<>\"']*[^\s<>\"'.,;:!?)]"
     r"|\b[\w-]+(?:\.[\w-]+)*\.(?:com|ro|net|org|info|biz|eu|io|co|xyz|top|shop|online|vip|app|ru)\b(?:/[^\s<>\"']*[^\s<>\"'.,;:!?)])?",
     re.I,
@@ -84,7 +84,7 @@ def replace_entities(
     if emails:
         text = _EMAIL.sub(f" {EMAIL_TOKEN} ", text)
     if urls:
-        text = _URL.sub(f" {URL_TOKEN} ", text)
+        text = URL_PATTERN.sub(f" {URL_TOKEN} ", text)
     if money:
         text = _MONEY.sub(f" {MONEY_TOKEN} ", text)
     if numbers:
