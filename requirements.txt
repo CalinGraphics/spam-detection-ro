@@ -12,7 +12,9 @@ scikit-learn
 # Romanian NLP
 nltk
 spacy
-stanza
+# spacy-stanza pins stanza<1.7, but those versions can't load their models with
+# torch>=2.6; 1.10.1 works with spacy_stanza.load_pipeline (pip warns about the pin).
+stanza==1.10.1
 spacy-stanza
 rowordnet
 fasttext-wheel

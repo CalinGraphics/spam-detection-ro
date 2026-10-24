@@ -15,13 +15,14 @@ data:
   random_state: 42
 
 preprocessing:
-  lowercase: true
+  lowercase: true            # applied to lemmas/stems; the cleaned text keeps its case
   normalize_diacritics: true
   replace_urls: true
   replace_emails: true
+  replace_money: true
   replace_numbers: true
-  lemmatize: true
   remove_stopwords: true
+  stanza_use_gpu: true
 
 tfidf:
   word_ngram_range: [1, 2]
