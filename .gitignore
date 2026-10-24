@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (keep folder structure only)
+data/raw/*
+data/interim/*
+data/processed/*
+!data/**/.gitkeep
+
+# Models and embeddings
+models/*
+!models/.gitkeep
+*.bin
+*.pt
+*.safetensors
+*.vec
+
+# Hugging Face / training outputs
+runs/
+checkpoint-*/
+wandb/
+
+# Environment and IDE
+.env
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

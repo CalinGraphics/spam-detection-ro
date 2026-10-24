@@ -1,0 +1,37 @@
+# Central configuration for paths and experiment settings
+
+paths:
+  raw: data/raw
+  interim: data/interim
+  processed: data/processed
+  models: models
+  figures: reports/figures
+
+data:
+  text_column: text
+  label_column: label        # 1 = spam, 0 = ham
+  test_size: 0.15
+  val_size: 0.15
+  random_state: 42
+
+preprocessing:
+  lowercase: true
+  normalize_diacritics: true
+  replace_urls: true
+  replace_emails: true
+  replace_numbers: true
+  lemmatize: true
+  remove_stopwords: true
+
+tfidf:
+  word_ngram_range: [1, 2]
+  char_ngram_range: [3, 5]
+  max_features: 50000
+  min_df: 2
+
+bert:
+  model_name: dumitrescustefan/bert-base-romanian-cased-v1
+  max_length: 256
+  batch_size: 16
+  epochs: 3
+  learning_rate: 2.0e-5

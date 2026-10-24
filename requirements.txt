@@ -1,0 +1,32 @@
+# Data handling
+pandas
+numpy
+pyyaml
+tqdm
+beautifulsoup4
+
+# Classical ML
+scikit-learn
+
+# Romanian NLP
+nltk
+spacy
+stanza
+spacy-stanza
+rowordnet
+fasttext-wheel
+
+# Transformers
+torch
+transformers
+datasets
+accelerate
+
+# Evaluation and explainability
+matplotlib
+seaborn
+lime
+
+# Notebooks and demo
+jupyter
+streamlit
