@@ -17,7 +17,6 @@ spacy
 stanza==1.10.1
 spacy-stanza
 rowordnet
-fasttext-wheel
 
 # Transformers
 torch

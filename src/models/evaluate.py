@@ -1,5 +1,7 @@
-"""Metrics and plots shared by all models."""
+"""Metrics, hyperparameter selection and plots shared by all models."""
 
+import logging
+from collections.abc import Callable
 from pathlib import Path
 
 import matplotlib
@@ -9,7 +11,11 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 from matplotlib.colors import LinearSegmentedColormap
+from sklearn.base import BaseEstimator
 from sklearn.metrics import confusion_matrix, precision_recall_fscore_support
+from sklearn.model_selection import StratifiedKFold, cross_val_score
+
+logger = logging.getLogger(__name__)
 
 # Validated light-mode palette (blue / orange categorical slots, blue sequential ramp).
 SERIES_COLORS = ["#2a78d6", "#eb6834", "#1baf7a", "#eda100"]
@@ -33,6 +39,19 @@ def evaluate(y_true, y_pred) -> dict:
         "false_positives": int(fp),
         "false_negatives": int(fn),
     }
+
+
+def category_folds(df: pd.DataFrame, random_state: int, n_splits: int = 5) -> list:
+    """Stratified folds on the email category, which also balances spam/ham."""
+    folds = StratifiedKFold(n_splits=n_splits, shuffle=True, random_state=random_state)
+    return list(folds.split(df, df["category"]))
+
+
+def select_param(build: Callable[[float], BaseEstimator], values: list[float], X, y, cv: list, name: str = "") -> float:
+    """Return the value whose model has the best mean spam F1 over the given folds."""
+    scores = {value: cross_val_score(build(value), X, y, cv=cv, scoring="f1").mean() for value in values}
+    logger.info("%s grid: %s", name, {value: round(score, 4) for value, score in scores.items()})
+    return max(scores, key=scores.get)
 
 
 def _style(ax) -> None:

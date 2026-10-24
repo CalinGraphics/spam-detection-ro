@@ -31,6 +31,17 @@ tfidf:
   max_features: 50000
   min_df: 2
 
+# Each grid is searched with 5-fold CV on the train split (spam F1).
+baselines:
+  naive_bayes_alpha: [0.01, 0.1, 1.0]
+  logreg_c: [1, 10, 100]
+  svm_c: [0.1, 1, 10]
+
+fasttext:
+  vectors_url: https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.ro.300.vec.gz
+  top_n_words: 200000        # most frequent words kept besides the corpus vocabulary, for unseen emails in the demo
+  logreg_c: [0.01, 0.1, 1, 10]
+
 ablation:
   logreg_c_grid: [1, 10, 100]  # chosen once on the TF-IDF-only model, then fixed for every feature set
 

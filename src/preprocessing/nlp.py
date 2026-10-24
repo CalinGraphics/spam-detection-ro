@@ -29,7 +29,7 @@ def load_stanza(use_gpu: bool = True) -> spacy.Language:
 
 
 @lru_cache(maxsize=1)
-def _tokenizer() -> spacy.Language:
+def blank_tokenizer() -> spacy.Language:
     # The rule-based Romanian tokenizer handles clitics ("n-am", "într-o") without loading a model.
     return spacy.blank("ro")
 
@@ -62,7 +62,7 @@ def lemmatize_texts(
 def stem_texts(texts: list[str], remove_stopwords: bool = True, lowercase: bool = True) -> list[str]:
     stemmer = SnowballStemmer("romanian")
     results = []
-    for doc in _tokenizer().pipe(texts):
+    for doc in blank_tokenizer().pipe(texts):
         # Clitics come out as separate tokens with a hyphen ("contactați-ne" -> "-ne"),
         # which would otherwise slip past the stopword list.
         words = [tok.text.strip("-") for tok in doc]

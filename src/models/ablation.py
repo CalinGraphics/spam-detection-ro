@@ -12,14 +12,14 @@ import logging
 import pandas as pd
 from sklearn.compose import ColumnTransformer
 from sklearn.linear_model import LogisticRegression
-from sklearn.model_selection import StratifiedKFold, cross_val_score, cross_validate
+from sklearn.model_selection import cross_validate
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import MinMaxScaler
 
 from src.features.handcrafted import FEATURE_COLUMNS, FEATURE_GROUPS, extract_features
 from src.features.tfidf import build_tfidf
 from src.models.baselines import load_splits
-from src.models.evaluate import evaluate, plot_dot_comparison
+from src.models.evaluate import category_folds, evaluate, plot_dot_comparison, select_param
 from src.utils.config import load_config
 
 TEXT_COLUMN = "text_lemma"
@@ -50,15 +50,6 @@ def make_model(use_tfidf: bool, columns: list[str], c: float, config: dict) -> P
     return Pipeline([("features", ColumnTransformer(transformers)), ("clf", classifier)])
 
 
-def pick_c(train_val: pd.DataFrame, cv: list, config: dict) -> float:
-    scores = {
-        c: cross_val_score(make_model(True, [], c, config), train_val, train_val["label"], cv=cv, scoring="f1").mean()
-        for c in config["ablation"]["logreg_c_grid"]
-    }
-    logger.info("C grid on tfidf only: %s", {c: round(s, 4) for c, s in scores.items()})
-    return max(scores, key=scores.get)
-
-
 def run_ablation(config: dict) -> pd.DataFrame:
     splits = load_splits(config)
     for name, df in splits.items():
@@ -67,9 +58,11 @@ def run_ablation(config: dict) -> pd.DataFrame:
 
     train_val = pd.concat([splits["train"], splits["val"]], ignore_index=True)
     test = splits["test"]
-    folds = StratifiedKFold(n_splits=5, shuffle=True, random_state=config["data"]["random_state"])
-    cv = list(folds.split(train_val, train_val["category"]))
-    c = pick_c(train_val, cv, config)
+    cv = category_folds(train_val, config["data"]["random_state"])
+    c = select_param(
+        lambda value: make_model(True, [], value, config),
+        config["ablation"]["logreg_c_grid"], train_val, train_val["label"], cv, name="C on tfidf only",
+    )
 
     rows = []
     for name, (use_tfidf, columns) in feature_sets().items():
