@@ -54,7 +54,7 @@ def select_param(build: Callable[[float], BaseEstimator], values: list[float], X
     return max(scores, key=scores.get)
 
 
-def _style(ax) -> None:
+def style_axes(ax) -> None:
     ax.set_facecolor("#fcfcfb")
     for side in ("top", "right"):
         ax.spines[side].set_visible(False)
@@ -93,7 +93,8 @@ def plot_dot_comparison(
     """
     rows = list(dict.fromkeys(df[row]))
     hues = list(dict.fromkeys(df[hue])) if hue else [None]
-    fig, ax = plt.subplots(figsize=(6.4, 0.45 * len(rows) + 1.2))
+    # Extra width for the legend, which sits outside the plot area.
+    fig, ax = plt.subplots(figsize=(8.0 if hue else 6.4, 0.45 * len(rows) + 1.4))
     offsets = np.linspace(-0.15, 0.15, len(hues)) if len(hues) > 1 else [0.0]
 
     for color, offset, h in zip(SERIES_COLORS, offsets, hues):
@@ -108,9 +109,10 @@ def plot_dot_comparison(
     ax.set_xlabel(value.replace("_", " "), color=INK_SECONDARY)
     ax.grid(axis="x", color=GRID, linewidth=0.8)
     ax.set_axisbelow(True)
-    _style(ax)
+    style_axes(ax)
     if title:
-        ax.set_title(title, color=INK, fontsize=11, loc="left")
+        # Figure-level title: an axes title starts after the y labels and gets clipped.
+        fig.suptitle(title, color=INK, fontsize=11, x=0.01, ha="left")
     if hue:
         ax.legend(frameon=False, labelcolor=INK_SECONDARY, loc="upper left", bbox_to_anchor=(1.01, 1))
     fig.tight_layout()

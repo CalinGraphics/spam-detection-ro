@@ -9,8 +9,8 @@ from sklearn.metrics import confusion_matrix
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import StandardScaler
 
+from src.data.split import load_splits
 from src.features.embeddings import build_table, document_vectors, download_vectors, load_table, tokenize
-from src.models.baselines import load_splits
 from src.models.evaluate import category_folds, evaluate, plot_confusion_matrices, select_param
 from src.utils.config import load_config
 

@@ -1,0 +1,6 @@
+model,spam_precision,spam_recall,spam_f1,ham_precision,ham_recall,ham_f1,accuracy,false_positives,false_negatives
+TF-IDF + Naive Bayes,0.9857,0.9452,0.965,0.9481,0.9865,0.9669,0.966,1,4
+TF-IDF + Logistic Regression,1.0,0.9726,0.9861,0.9737,1.0,0.9867,0.9864,0,2
+TF-IDF + linear SVM,1.0,0.9726,0.9861,0.9737,1.0,0.9867,0.9864,0,2
+fastText + Logistic Regression,0.9315,0.9315,0.9315,0.9324,0.9324,0.9324,0.932,5,5
+Romanian BERT,1.0,0.9726,0.9861,0.9737,1.0,0.9867,0.9864,0,2

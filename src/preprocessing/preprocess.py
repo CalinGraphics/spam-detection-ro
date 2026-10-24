@@ -5,13 +5,12 @@ from functools import partial
 
 import pandas as pd
 
+from src.data.split import SPLITS
 from src.preprocessing.cleaning import clean_text
 from src.preprocessing.nlp import cached_apply, lemmatize_texts, stem_texts
 from src.utils.config import load_config
 
 logger = logging.getLogger(__name__)
-
-SPLITS = ("train", "val", "test")
 
 
 def preprocess_frame(df: pd.DataFrame, config: dict) -> pd.DataFrame:

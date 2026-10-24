@@ -16,9 +16,9 @@ from sklearn.model_selection import cross_validate
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import MinMaxScaler
 
+from src.data.split import load_splits
 from src.features.handcrafted import FEATURE_COLUMNS, FEATURE_GROUPS, extract_features
 from src.features.tfidf import build_tfidf
-from src.models.baselines import load_splits
 from src.models.evaluate import category_folds, evaluate, plot_dot_comparison, select_param
 from src.utils.config import load_config
 

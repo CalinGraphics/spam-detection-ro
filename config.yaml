@@ -49,5 +49,7 @@ bert:
   model_name: dumitrescustefan/bert-base-romanian-cased-v1
   max_length: 256
   batch_size: 16
-  epochs: 3
+  epochs: 5                  # val F1: 0.953 with 3 epochs, 0.986 with 5, 0.979 with 8
   learning_rate: 2.0e-5
+  weight_decay: 0.01
+  warmup_ratio: 0.1

@@ -10,6 +10,12 @@ from src.utils.config import load_config
 
 logger = logging.getLogger(__name__)
 
+SPLITS = ("train", "val", "test")
+
+
+def load_splits(config: dict) -> dict[str, pd.DataFrame]:
+    return {name: pd.read_parquet(config["paths"]["processed"] / f"{name}.parquet") for name in SPLITS}
+
 
 def split_dataset(
     df: pd.DataFrame, test_size: float, val_size: float, random_state: int

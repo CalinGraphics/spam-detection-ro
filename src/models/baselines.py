@@ -17,6 +17,7 @@ from sklearn.naive_bayes import MultinomialNB
 from sklearn.pipeline import Pipeline
 from sklearn.svm import LinearSVC
 
+from src.data.split import load_splits
 from src.features.tfidf import build_tfidf
 from src.models.evaluate import category_folds, evaluate, plot_confusion_matrices, plot_dot_comparison, select_param
 from src.utils.config import load_config
@@ -42,10 +43,6 @@ def classifier_grids(config: dict) -> dict[str, tuple[Callable[[float], Classifi
 
 def make_pipeline(classifier: ClassifierMixin, tfidf_params: dict) -> Pipeline:
     return Pipeline([("tfidf", build_tfidf(tfidf_params)), ("clf", classifier)])
-
-
-def load_splits(config: dict) -> dict[str, pd.DataFrame]:
-    return {name: pd.read_parquet(config["paths"]["processed"] / f"{name}.parquet") for name in ("train", "val", "test")}
 
 
 def run_baselines(config: dict) -> pd.DataFrame:
