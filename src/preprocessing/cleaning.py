@@ -24,10 +24,14 @@ _HEADER_LINE = re.compile(
 )
 _QUOTE_MARKER = re.compile(r"^[ \t]*(?:>[ \t]?)+", re.M)
 
-_EMAIL = re.compile(r"\b[\w.+-]+@[\w-]+(?:\.[\w-]+)+\b")
+# The repetitions are bounded (64-char local part, 63-char labels, at most 6 labels,
+# as in real addresses). Unbounded ones are tried from every word start and scan to
+# the end of the text, which made a 5000-char "a.a.a..." input take over half a second.
+_EMAIL = re.compile(r"\b[\w.+-]{1,64}@[\w-]{1,63}(?:\.[\w-]{1,63}){1,6}\b")
 URL_PATTERN = re.compile(
     r"(?:https?://|www\.)[^\s<>\"']*[^\s<>\"'.,;:!?)]"
-    r"|\b[\w-]+(?:\.[\w-]+)*\.(?:com|ro|net|org|info|biz|eu|io|co|xyz|top|shop|online|vip|app|ru)\b(?:/[^\s<>\"']*[^\s<>\"'.,;:!?)])?",
+    r"|\b(?:[\w-]{1,63}\.){1,6}(?:com|ro|net|org|info|biz|eu|io|co|xyz|top|shop|online|vip|app|ru)\b"
+    r"(?:/[^\s<>\"']*[^\s<>\"'.,;:!?)])?",
     re.I,
 )
 _AMOUNT = r"\d{1,3}(?:[.,]\d{3})+(?:,\d+)?|\d+(?:[.,]\d+)?"

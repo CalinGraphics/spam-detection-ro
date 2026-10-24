@@ -1,0 +1,21 @@
+[theme]
+# Fixed light theme: the verdict and the highlighted text use colors chosen for this surface.
+base = "light"
+primaryColor = "#2a78d6"
+backgroundColor = "#fcfcfb"
+secondaryBackgroundColor = "#f3f2ee"
+textColor = "#0b0b0b"
+font = "sans serif"
+
+[server]
+# The watcher walks every loaded module; on transformers' lazy modules that
+# triggers imports of optional vision packages and fills the log with errors.
+fileWatcherType = "none"
+
+[client]
+toolbarMode = "minimal"
+# Tracebacks (with local paths) go to the console only; the browser gets a generic message.
+showErrorDetails = "none"
+
+[browser]
+gatherUsageStats = false

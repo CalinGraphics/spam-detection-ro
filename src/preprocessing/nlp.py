@@ -47,16 +47,23 @@ def _finish(words: list[str], lowercase: bool) -> str:
     return " ".join(w if w in PLACEHOLDERS or not lowercase else w.lower() for w in words)
 
 
+def token_lemma(token) -> str:
+    return token.text if token.text in PLACEHOLDERS else (token.lemma_ or token.text)
+
+
+def join_lemmas(lemmas: list[str], remove_stopwords: bool = True, lowercase: bool = True) -> str:
+    """Turn a token-level lemma sequence into the text the TF-IDF models were trained on."""
+    lemmas = [lem.strip("-") for lem in lemmas]
+    return _finish([lem for lem in lemmas if _keep(lem, remove_stopwords)], lowercase)
+
+
 def lemmatize_texts(
     texts: list[str], remove_stopwords: bool = True, lowercase: bool = True, use_gpu: bool = True
 ) -> list[str]:
     nlp = load_stanza(use_gpu)
-    results = []
-    for doc in nlp.pipe(texts):
-        lemmas = [tok.text if tok.text in PLACEHOLDERS else (tok.lemma_ or tok.text) for tok in doc]
-        lemmas = [lem.strip("-") for lem in lemmas]
-        results.append(_finish([lem for lem in lemmas if _keep(lem, remove_stopwords)], lowercase))
-    return results
+    return [
+        join_lemmas([token_lemma(tok) for tok in doc], remove_stopwords, lowercase) for doc in nlp.pipe(texts)
+    ]
 
 
 def stem_texts(texts: list[str], remove_stopwords: bool = True, lowercase: bool = True) -> list[str]:
