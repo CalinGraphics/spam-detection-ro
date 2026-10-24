@@ -1,0 +1,209 @@
+text,label,category
+"Comunicat ANAF: verificare fiscală
+
+Stimate contribuabil,
+
+În cadrul campaniei naționale de verificare fiscală, ați fost selectat pentru o verificare a veniturilor din ultimii 3 ani. Pentru a evita o inspecție la domiciliu, completați declarația online în 5 zile.
+
+http://anaf-verificare-fiscala.info",1,fake_invoice
+"Notificare de la Primărie - impozit locuință
+
+Impozitul pe locuință pentru acest an nu a fost achitat. Plătiți urgent pentru a evita majorările de întârziere:
+
+http://primarie-impozite-plata.com",1,fake_invoice
+"Rabla pentru electrocasnice - înscriere
+
+Programul Rabla pentru electrocasnice a început! Primești 1.500 de lei pentru frigiderul vechi. Înscrie-te acum cu datele cardului:
+
+https://rabla-electrocasnice-inscriere.com",1,prize_lottery
+"Ajutor de încălzire - verifică eligibilitatea
+
+Guvernul oferă un ajutor de încălzire de 1.000 de lei pentru toate familiile. Verifică eligibilitatea introducând CNP-ul și IBAN-ul:
+
+http://ajutor-incalzire-guvern.com",1,phishing_bank
+"Vouchere de vacanță - ultimele zile
+
+Voucherele tale de vacanță expiră în 3 zile! Transferă-le în bani pe card completând formularul:
+
+https://vouchere-vacanta-transfer.com",1,phishing_bank
+"Câștigă din vânzarea de fotografii
+
+Vinde-ți fotografiile online și câștigă până la 1.000 de euro pe lună! Accesul la platformă costă 39 de euro.
+
+https://vinde-fotografii-online.com",1,job_scam
+"Oferta de Black Friday: tablete la 99 de lei
+
+Tablete de ultimă generație la doar 99 de lei! Stoc limitat la 50 de bucăți.
+
+Comandă acum: www.tablete-black-friday.shop",1,commercial_offer
+"Ai fost ales să primești un card cadou Amazon
+
+Felicitări! Ai fost ales să primești un card cadou Amazon de 100 de euro. Completează sondajul:
+
+https://amazon-card-cadou-sondaj.com",1,prize_lottery
+"Contul tău de Microsoft va fi închis
+
+Contul tău Microsoft va fi închis pentru inactivitate. Autentifică-te pentru a-l păstra:
+
+http://microsoft-cont-inactiv.com",1,account_suspended
+"Plătește-ți facturile cu 50% reducere
+
+Plătește facturile de utilități prin aplicația noastră și primești 50% reducere! Introdu datele cardului pentru înregistrare:
+
+https://facturi-reducere-50.com",1,commercial_offer
+"Iubita ta te înșală?
+
+Află dacă partenerul tău te înșală! Aplicația noastră îți arată toate mesajele lui, fără ca el să știe. Doar 49 de lei.
+
+https://aplicatie-spion-partener.com",1,commercial_offer
+"Te așteptăm la noul tău job
+
+Ai fost acceptat pentru postul de lucrător în Danemarca. Salariu 4.500 de euro. Plătește taxa de 350 de euro pentru contract și transport:
+
+https://job-danemarca-contract.com",1,job_scam
+"Mesaj de la fiul tău
+
+Mamă, mi s-a stricat telefonul și îți scriu de pe unul nou. Am nevoie urgent de 1.000 de lei pentru o factură. Poți să-mi trimiți acum? Îți explic diseară.",1,inheritance_advance_fee
+"Ulei de CBD care vindecă anxietatea
+
+Uleiul nostru de CBD vindecă anxietatea, insomnia și durerile cronice în 7 zile. Comandă cu 50% reducere:
+
+www.ulei-cbd-vindecare.com",1,health_product
+"Mesaj de la echipa de securitate Google
+
+Am detectat un virus în contul tău Google Drive. Scanează contul acum:
+
+http://google-drive-scanare.com",1,tech_support
+"Investește în startup-ul care va schimba lumea
+
+Startup-ul nostru va fi următorul Google! Investește acum de la 100 de euro și devii acționar. Randament estimat: 1.000%.
+
+https://startup-investitie-acum.com",1,investment_crypto
+"Ai câștigat un card de combustibil
+
+Ai câștigat un card de combustibil în valoare de 500 de lei! Pentru livrare, plătește taxa de 9,90 lei:
+
+https://card-combustibil-castig.com",1,prize_lottery
+"Notificare de la curier: coletul tău e la vecin
+
+Coletul tău a fost lăsat la vecin, dar trebuie confirmat. Confirmă primirea și plătește taxa de 1 leu:
+
+http://colet-vecin-confirmare.com",1,phishing_courier
+"Plata ta Glovo a eșuat
+
+Comanda ta nu a putut fi procesată. Actualizează datele cardului pentru a primi mâncarea:
+
+http://glovo-plata-esuata.com",1,phishing_bank
+"Copilul tău e în pericol online
+
+Copilul tău poate fi abordat de persoane rău intenționate online. Instalează aplicația noastră de control parental, doar 99 de lei pe an:
+
+https://control-parental-urgent.com",1,tech_support
+"Asociație de proprietari - mulțumiri
+
+Dragi vecini,
+
+Vă mulțumim tuturor pentru participarea la curățenia de primăvară din curtea blocului. Am strâns 40 de saci de gunoi și am plantat 10 tufe de trandafiri.
+
+Comitetul de bloc",0,community
+"Programul de sărbători la cantină
+
+Dragi studenți,
+
+În perioada 23 decembrie - 7 ianuarie, cantina va fi închisă. Studenții care rămân în cămin pot primi pachete cu alimente, pe bază de înscriere la administrator.
+
+Administrația Căminelor",0,university
+"Comanda de cadouri corporate
+
+Bună ziua,
+
+Vă confirmăm comanda de 60 de coșuri cadou pentru angajații firmei dumneavoastră. Livrarea se face la sediu pe 19 decembrie, între 9:00 și 11:00. Factura va fi emisă la livrare.
+
+Poți urmări comanda aici: https://www.cadourifrumoase.ro/contul-meu/comenzi
+
+CadouriFrumoase",0,order_delivery
+"Feedback pentru prima versiune
+
+Salut, Roxana,
+
+Am văzut prima versiune a logo-ului pentru cafenea. Ne place foarte mult varianta a doua, cu ceașca stilizată. Am putea încerca și o variantă cu un verde mai închis?
+
+Mulțumesc,
+Roxana Lupu",0,work
+"Te rog să-mi trimiți rețeta
+
+Bună, mamă,
+
+Poți să-mi trimiți rețeta ta de salată de boeuf? Vreau să o fac pentru Revelion, iar a ta e cea mai bună. Mersi!
+
+Ana",0,personal
+"Ședință de consiliere
+
+Bună ziua,
+
+Vă confirmăm ședința de consiliere în carieră pentru joi, 14 decembrie, ora 15:00, la Centrul de Carieră, camera 104. Vă rugăm să aduceți CV-ul actualizat.
+
+Centrul de Consiliere și Orientare în Carieră",0,appointment
+"Calendarul nostru pe anul viitor
+
+Dragi membri,
+
+Am atașat calendarul activităților clubului pentru anul viitor: 6 drumeții, 2 tabere de vară și concursul anual de orientare. Înscrierile se deschid în februarie.
+
+Clubul Turistic Carpați",0,newsletter
+"Ofertă de abonament anual - confirmare
+
+Bună ziua,
+
+V-ați abonat la planul anual al aplicației de meditație. Suma de 199 de lei a fost debitată, iar abonamentul este valabil până pe 12 decembrie anul viitor.
+
+Detaliile comenzii: https://calmmind.ro/comenzi
+
+Echipa CalmMind",0,order_delivery
+"Iti multumesc pentru cadou
+
+Draga Elena,
+
+Iti multumesc pentru fularul pe care mi l-ai trimis, e superb si foarte calduros. Il port in fiecare zi!
+
+Te pup,
+Silvia",0,personal
+"Reprogramare consultație
+
+Bună ziua,
+
+Din cauza unei urgențe, doctorul Mitrea nu poate ajunge mâine. Consultația dumneavoastră a fost reprogramată pentru vineri, la aceeași oră. Vă rugăm să ne confirmați.
+
+Pentru reprogramări: https://www.clinicaochisanatosi.ro/programari
+
+Clinica Ochi Sănătoși",0,appointment
+"Planificarea vacanței de vară
+
+Dragi colegi,
+
+Vă rog să vă treceți perioadele de concediu de vară în calendarul comun până la sfârșitul lui martie. Încercăm să avem minimum 3 oameni în birou în fiecare săptămână.
+
+Sabina",0,work
+"Rezultate la concursul de matematică
+
+Stimați părinți,
+
+Felicitări elevilor care s-au calificat la etapa județeană a olimpiadei de matematică: Matei Ionescu, Sara Pop și David Stan. Etapa județeană are loc pe 9 martie.
+
+Prof. Liviu Dragomir",0,community
+"Bilet de intrare la expoziție
+
+Bună, Vlad!
+
+Mulțumim pentru achiziție. Biletul tău pentru expoziția „Brâncuși - dialoguri” este valabil pe 16 decembrie, intervalul 14:00-16:00. Prezintă codul QR la intrare.
+
+Factura o găsești în cont: https://www.muzeuldearta.ro/cont/facturi
+
+Muzeul de Artă",0,order_delivery
+"Rezumatul cursului de azi
+
+Bună ziua,
+
+Pentru cei care nu au putut ajunge, am încărcat pe platformă slide-urile și înregistrarea cursului de azi despre modelele de tip transformer. Data viitoare discutăm despre BERT și fine-tuning.
+
+Prof. dr. Ioana Grigore",0,university

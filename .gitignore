@@ -14,6 +14,8 @@ data/raw/*
 data/interim/*
 data/processed/*
 !data/**/.gitkeep
+# The generated emails can't be recreated exactly, so they are versioned.
+!data/raw/generated/
 
 # Models and embeddings
 models/*

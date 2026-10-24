@@ -22,8 +22,6 @@ torch
 transformers
 datasets
 accelerate
-sentencepiece
-sacremoses
 
 # Evaluation and explainability
 matplotlib

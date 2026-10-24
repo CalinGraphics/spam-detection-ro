@@ -1,0 +1,264 @@
+text,label,category
+"Confirmare abonament presă
+
+Bună ziua,
+
+Abonamentul dumneavoastră anual la revista Știință și Tehnică a fost reînnoit. Primul număr din noul abonament va ajunge prin poștă la începutul lunii ianuarie. Factura este atașată.
+
+Detaliile comenzii: https://magazin.ro/comenzi
+
+Departamentul Abonamente",0,order_delivery
+"Abonamentul la revistă - plată eșuată
+
+Plata abonamentului dumneavoastră nu a fost procesată. Pentru a nu pierde numerele următoare, reintroduceți datele cardului:
+
+http://abonament-revista-plata.com",1,fake_invoice
+"Masă rotundă despre inteligența artificială
+
+Stimați colegi,
+
+Vă invităm la masa rotundă „Inteligența artificială în educație”, care va avea loc pe 14 decembrie, ora 16:00, în Aula Magna. Participarea este liberă, dar vă rugăm să vă înscrieți în formularul de pe site-ul facultății.
+
+Decanatul",0,university
+"Sistem automat de pariuri - câștig zilnic
+
+Robotul nostru de pariuri sportive câștigă în 95% din cazuri. Abonează-te la ponturile VIP pentru doar 50 de euro pe lună și începe să câștigi.
+
+http://ponturi-vip-castig.com",1,commercial_offer
+"Mulțumiri pentru ajutor
+
+Bună, domnule Grigore,
+
+Vă mulțumesc încă o dată pentru sfaturile legate de examenul de admitere la master. Am fost admis! Fără ajutorul dumneavoastră la pregătirea interviului, nu cred că reușeam.
+
+Cu recunoștință,
+Andrei Iordache",0,university
+"Notificare: contul dumneavoastră de Netflix va fi închis
+
+Datorită unei erori de facturare, contul dvs. va fi închis în 48 de ore. Actualizați datele de plată pentru a evita închiderea:
+
+http://netflix-cont-romania.com",1,account_suspended
+"Ședință cu furnizorul
+
+Salut, Ana,
+
+Mâine la 11 avem ședința cu furnizorul de ambalaje. Vreau să discutăm despre întârzierile din ultimele două luni și despre noul preț propus. Poți să aduci contractul și centralizatorul livrărilor?
+
+Mulțumesc,
+Victor",0,work
+"Pastile pentru slăbit fără rețetă - efect garantat
+
+Slăbește 20 de kg în 2 luni cu pastilele noastre speciale, interzise în farmaciile din România. Livrare discretă.
+
+Comandă: www.pastile-slabit-forte.net",1,health_product
+"Plată salariu efectuată
+
+Stimate client,
+
+În contul dumneavoastră a fost creditată suma de 5.420,00 lei, reprezentând salariul pentru luna noiembrie, de la SC DataSoft SRL. Sold disponibil actualizat în aplicație.
+
+BancaNova",0,bank_notification
+"Plata salariului - verificare cont
+
+Plata salariului dumneavoastră este în așteptare. Pentru a fi creditată, este necesară verificarea contului. Accesați:
+
+http://verificare-salariu-cont.com",1,phishing_bank
+"Despre vacanța de vară
+
+Salut, Andrei,
+
+Mă gândeam că ar fi fain să mergem vara asta în Grecia, pe insula Thassos. Am găsit o cazare drăguță aproape de plajă, 40 de euro pe noapte. Ce zici? Dacă vrei, rezervăm din timp.
+
+Mona",0,personal
+"Grecia all inclusive la 99 de euro
+
+Ofertă de nerefuzat: 7 nopți all inclusive în Grecia, cu transport, doar 99 de euro de persoană! Ofertă valabilă doar azi.
+
+Plătește acum: https://grecia-all-inclusive-99.com",1,commercial_offer
+"Raport de mentenanță - server de producție
+
+Salut, echipa,
+
+Mentenanța de azi-noapte s-a încheiat la 03:40. Am actualizat sistemul de operare și baza de date, iar toate serviciile au repornit fără erori. Singura problemă a fost un timeout la jobul de backup, pe care l-am rulat manual.
+
+Documentul e și aici: https://drive.firma.ro/d/zf8rnmr
+
+Liviu, DevOps",0,work
+"Alertă de livrare DHL
+
+Coletul dumneavoastră DHL Express nu poate fi livrat până la plata taxelor de import, în valoare de 8,70 EUR. Plătiți online pentru livrare în 24 de ore:
+
+https://dhl-express-taxe-import.com",1,phishing_courier
+"Expediere internațională - număr de urmărire
+
+Bună ziua,
+
+Coletul expediat din Germania a fost preluat de curier. Numărul de urmărire este 1Z 999 AA1 01 2345 6784. Livrarea estimată este 14-16 decembrie. Taxele vamale au fost achitate de expeditor.
+
+Poți urmări comanda aici: https://www.magazin.ro/contul-meu/comenzi
+
+Echipa BuchHaus",0,order_delivery
+"Felicitări! Ești câștigătorul nostru
+
+Ai câștigat un card cadou de 300 de lei la Carrefour. Răspunde la 4 întrebări simple pentru a-l primi:
+
+http://card-cadou-carrefour-ro.com",1,prize_lottery
+"Antrenament anulat
+
+Dragi părinți,
+
+Din cauza ninsorii abundente, antrenamentul de fotbal de mâine se anulează. Ne vedem joi, la ora obișnuită, în sala de sport a școlii.
+
+Antrenor, Marius Dinu",0,community
+"Proiect de cercetare - acces la date
+
+Bună ziua,
+
+Pentru proiectul de cercetare despre clasificarea emailurilor, am obținut aprobarea comisiei de etică. Datele vor fi anonimizate înainte de a fi folosite. Vă trimit atașat formularul de consimțământ, pentru eventualii participanți.
+
+Conf. dr. Ioana Grigore",0,university
+"Venit garantat din mașini de vending
+
+Investește în mașini de vending și câștigă 2.000 de euro pe lună, pasiv. Noi ne ocupăm de tot: amplasare, aprovizionare, mentenanță.
+
+Investiție inițială: 8.000 de euro. Detalii: vending.profit.ro@gmail.com",1,investment_crypto
+"Plata întreținerii - confirmare
+
+Bună ziua,
+
+Am primit plata de 412 lei pentru întreținerea apartamentului 14, luna noiembrie. Vă mulțumesc!
+
+Contul de client: https://client.furnizor.ro
+
+Administrator, Gheorghe Matei",0,utility_bill
+"Taxă de întreținere restantă - executare
+
+Asociația de proprietari vă notifică faptul că aveți o restanță de 1.240 de lei. Plătiți urgent prin linkul de mai jos pentru a evita executarea:
+
+http://asociatie-plata-restanta.com",1,fake_invoice
+"Te-ai înscris la crosul de iarnă
+
+Bună, Alex!
+
+Înscrierea ta la Crosul de Iarnă, proba de 10 km, a fost confirmată. Numărul tău de concurs este 1047. Kitul de concurs îl poți ridica pe 9 decembrie, între 10:00 și 18:00, de la cortul organizatorilor.
+
+Mai multe detalii găsiți pe site: https://www.asociatia-noastra.ro/noutati
+
+Spor la alergat!",0,newsletter
+"Iubire adevărată te așteaptă
+
+Femei frumoase din Ucraina, Rusia și Moldova caută soți serioși. Înregistrează-te și primești 10 mesaje gratuite.
+
+http://mirese-straine-ro.com",1,romance_dating
+"Reamintire: returnarea cărților
+
+Bună ziua,
+
+Vă reamintim că termenul de returnare pentru cartea „Introducere în Statistică” a expirat pe 30 noiembrie. Vă rugăm să o returnați cât mai curând, pentru a evita penalitatea de 1 leu pe zi.
+
+Biblioteca Centrală Universitară",0,university
+"Datoria ta la bibliotecă - plată online
+
+Ai o penalitate de 87 de lei pentru cărți nereturnate. Plătește online pentru a evita blocarea contului de student:
+
+https://biblioteca-penalitati-plata.com",1,fake_invoice
+"Pregătiri pentru Crăciun
+
+Bună, soră,
+
+Mama zice că de Crăciun facem la ea, ca în fiecare an. Eu mă ocup de sarmale, tu poți să faci cozonacul? Și să nu uiți că Ionuț vrea un set de Lego, i l-am promis de la Moș Crăciun.
+
+Te pup,
+Alina",0,personal
+"Fii primul care află: aplicația care îți dublează banii
+
+Aplicația noastră investește automat economiile tale și ți le dublează în 6 luni. Garantat!
+
+Descarcă acum și primești 20 de euro bonus: http://dubleaza-bani-app.com",1,investment_crypto
+"Webinar gratuit pentru clienți: protecția împotriva fraudelor
+
+Stimate client,
+
+Vă invităm la un webinar gratuit despre cum să recunoașteți tentativele de fraudă online, pe 12 decembrie, ora 18:00. Reamintim: nu vă vom cere niciodată prin email parole, coduri PIN sau datele complete ale cardului.
+
+Detalii în aplicație sau pe https://www.creditdanubius.ro
+
+Echipa de securitate Credit Danubius",0,bank_notification
+"Ai câștigat un abonament gratuit la sală
+
+Ai câștigat un abonament anual gratuit la sala de fitness din zona ta! Pentru activare, plătești doar taxa de card de membru, 29 de lei:
+
+http://abonament-sala-gratuit.com",1,prize_lottery
+"Schimbare de program - sala de fitness
+
+Bună,
+
+Începând de luni, clasele de yoga se mută de la 18:00 la 19:00, iar clasa de pilates de sâmbătă se ține la 10:00 în loc de 11:00. Ne cerem scuze pentru eventualele neplăceri.
+
+Echipa FitZone",0,newsletter
+"Promoție la încălțăminte sport
+
+Adidași de firmă la doar 99 de lei! Nike, Adidas, Puma - toate modelele, toate mărimile. Ofertă valabilă doar 24 de ore.
+
+www.adidasi-firma-ieftini.shop",1,commercial_offer
+"Concediu de paternitate
+
+Bună ziua,
+
+Vă anunț că începând cu 18 decembrie voi fi în concediu de paternitate pentru 10 zile lucrătoare. Am predat toate task-urile urgente lui Mihai și am lăsat notițele în documentul comun al echipei.
+
+Cu stimă,
+Răzvan Lazăr",0,work
+"Te rugăm să ne ajuți să salvăm pădurile
+
+Pădurile României dispar pe zi ce trece. Donează acum pentru plantarea a 1.000 de copaci.
+
+Trimite banii prin transfer pe numele domnului Ionescu Vasile, care coordonează proiectul: http://salvam-padurile-donatii.com",1,charity_scam
+"Plantăm împreună - mulțumiri
+
+Dragi voluntari,
+
+Mulțumim celor 85 de oameni care au venit sâmbătă la plantare! Am plantat 1.200 de puieți de stejar în zona Comana. Pozele de la eveniment sunt pe pagina asociației.
+
+Asociația Verde pentru Toți",0,community
+"Tehnician Microsoft: am detectat o problemă
+
+Bună ziua,
+
+Vă contactăm de la Microsoft pentru că licența dvs. Windows a fost folosită ilegal de pe altă adresă IP. Pentru a evita blocarea, instalați programul de asistență de la distanță:
+
+https://asistenta-microsoft-ro.com/download",1,tech_support
+"Actualizare de securitate pentru laptop
+
+Dragi colegi,
+
+Diseară, la ora 20:00, se va instala automat o actualizare de securitate pe toate laptopurile companiei. Vă rugăm să lăsați laptopurile pornite și conectate la încărcător.
+
+Departamentul IT",0,security_notice
+"Ești pe lista noastră de câștigători
+
+Numele tău apare pe lista câștigătorilor tombolei naționale. Premiul: 10.000 de lei. Pentru transfer, plătește taxa de procesare de 50 de lei:
+
+http://tombola-nationala-premii.com",1,prize_lottery
+"Mulțumim pentru vizită
+
+Bună ziua, domnule Pop,
+
+Vă mulțumim că ați vizitat showroom-ul nostru. Așa cum am discutat, vă trimit oferta pentru bucătăria pe colț, cu blat din cuarț și electrocasnice incluse. Prețul total este de 23.400 de lei, cu montaj.
+
+Poți urmări comanda aici: https://www.mobilacasa.ro/contul-meu/comenzi
+
+Cu stimă,
+Laura, MobilaCasa",0,order_delivery
+"Am greșit adresa, dar te rog să citești
+
+Bună, scuze că îți scriu din senin. Am greșit adresa, dar am văzut că ești o persoană de încredere. Am o propunere care te poate ajuta financiar. Scrie-mi înapoi și îți explic tot.
+
+Ana",1,romance_dating
+"Reamintire programare control anual
+
+Bună ziua,
+
+Vă reamintim că a trecut un an de la ultimul control ginecologic. Vă puteți programa telefonic la 021 400 12 12 sau online, pe site-ul clinicii.
+
+Clinica Femina",0,appointment

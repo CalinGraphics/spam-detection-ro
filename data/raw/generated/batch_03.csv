@@ -1,0 +1,349 @@
+text,label,category
+"Reactivați accesul la aplicația mobilă
+
+Stimate client,
+
+Din cauza unei actualizări a sistemului, aplicația de mobile banking a fost dezactivată pentru contul dumneavoastră. Pentru reactivare este necesară introducerea codului de card și a datei de expirare.
+
+Reactivați aici: http://bancanova-app-reactivare.com
+
+Departamentul Digital Banking",1,phishing_bank
+"Laborator anulat joi
+
+Bună ziua,
+
+Laboratorul de Rețele de Calculatoare de joi, 16:00-18:00, nu va avea loc, deoarece sunt plecat la o conferință. Îl recuperăm vineri, 8:00-10:00, în aceeași sală, EC105.
+
+Detalii pe platformă: https://elearning.universitate.ro/curs/67xc7c
+
+As. drd. Tudor Rusu",0,university
+"Livrare programată - plată necesară
+
+Coletul tău de la Sameday este gata de livrare în easybox. Pentru a primi codul de deschidere, trebuie achitată o taxă de 0,99 lei.
+
+Plătește aici: https://easybox-cod-colet.com
+
+Codul expiră în 24 de ore.",1,phishing_courier
+"Comanda ta este gata de ridicare
+
+Bună, Răzvan!
+
+Comanda #10442 a ajuns în magazinul TechZone din Iulius Mall și te așteaptă la punctul de ridicare, parter, lângă intrarea principală.
+
+Poți urmări comanda aici: https://www.techzone.ro/contul-meu/comenzi
+
+Ai la tine numărul comenzii și un act de identitate. Comanda va fi păstrată 7 zile.",0,order_delivery
+"Felicitari, ai fost ales!
+
+Draga client,
+
+In urma tragerii la sorti, ai fost desemnat castigatorul unui televizor Samsung de 65 de inch. Pentru a intra in posesia premiului, acceseaza linkul si plateste doar taxa de livrare de 7 lei.
+
+https://castiga-tv-acum.com
+
+Felicitari inca o data!",1,prize_lottery
+"Actualizare politică de lucru remote
+
+Dragi colegi,
+
+Începând cu 1 ianuarie, politica de lucru hibrid se schimbă: vom avea două zile obligatorii la birou, marți și joi. Restul săptămânii puteți lucra de acasă. Detaliile complete sunt în documentul de pe intranet.
+
+Mulțumim,
+Departamentul de Resurse Umane",0,work
+"Scapă de diabet în 30 de zile
+
+Un remediu natural descoperit de un profesor din Elveția reglează glicemia fără insulină și fără medicamente.
+
+Farmaciile nu vor să afli! Oferta specială: 50% reducere doar azi.
+
+www.glicemie-normala-natural.com",1,health_product
+"Dobânda la depozit a fost actualizată
+
+Stimate client,
+
+Vă informăm că, începând cu 1 decembrie, dobânda la depozitul dvs. la termen de 6 luni se modifică de la 5,2% la 5,0% pe an, conform condițiilor contractuale. Nu este necesară nicio acțiune din partea dumneavoastră.
+
+Detalii în aplicația Credit Danubius.",0,bank_notification
+"Moneda virtuală care va crește de 100 de ori
+
+Bună,
+
+Lansăm în exclusivitate o monedă nouă, RoCoin. Primii investitori vor câștiga de 100 de ori suma investită până la sfârșitul anului.
+
+Pre-vânzarea se închide în 48 de ore. Cumpără acum:
+http://rocoin-presale.io",1,investment_crypto
+"Salut din Lisabona
+
+Dragă Vlad,
+
+Am ajuns cu bine, orașul e superb, am mâncat deja de trei ori pastéis de nata. Mâine mergem la Sintra. Îți aduc ceva de aici, ce ți-ar plăcea?
+
+Te pup,
+Irina",0,personal
+"Plata salariului suspendată
+
+Bună ziua,
+
+Departamentul de salarizare nu a putut procesa plata salariului dvs. din cauza unor date bancare incorecte. Vă rugăm să le actualizați urgent în portalul angajaților:
+
+http://portal-salarii-angajati.com/login
+
+Departament Resurse Umane",1,fake_invoice
+"Noutăți la Clubul de Film
+
+Salut, cinefili!
+
+Luna aceasta proiectăm un ciclu dedicat cinematografiei italiene: luni, Cinema Paradiso, apoi miercuri, Ladri di biciclette. Intrarea e liberă pentru membrii clubului. Proiecțiile încep la 19:30 în aula mică.
+
+Echipa Clubului de Film",0,newsletter
+"Cauti job? Castigi 800 lei pe zi din like-uri
+
+Platim pentru fiecare like dat pe Instagram si YouTube. Activitate simpla, de acasa, 1-2 ore pe zi.
+
+Scrie-ne pe Telegram la @JobLikeRomania si incepi azi. Prima sarcina e platita imediat!",1,job_scam
+"Confirmare programare la ITP
+
+Bună ziua,
+
+Programarea pentru inspecția tehnică periodică a autoturismului cu nr. CJ 45 ABC a fost confirmată pentru vineri, 24.11, la ora 13:00, la stația ITP AutoCheck Florești.
+
+Pentru reprogramări: https://www.clinica.ro/programari
+
+Vă rugăm să aveți la dumneavoastră talonul și polița RCA valabilă.",0,appointment
+"Avertisment de securitate Apple
+
+Dispozitivul dvs. iPhone a fost compromis. Am detectat un troian care accesează camera și microfonul.
+
+Sunați imediat la Apple Support: +40 37 112 2290 pentru a elimina amenințarea.
+
+Nu folosiți aplicațiile bancare până la remediere!",1,tech_support
+"Factură internet - noiembrie
+
+Bună ziua,
+
+Factura dumneavoastră NetFibra pentru luna noiembrie este disponibilă în contul de client.
+
+Abonament: Fibra 1000 Mbps
+Total de plată: 45,00 lei
+Scadență: 15.12
+
+Vă mulțumim că ne sunteți client!",0,utility_bill
+"Prietene, am nevoie de ajutorul tău
+
+Dragul meu prieten,
+
+Mă aflu blocat în Turcia după ce mi-au fost furate geanta și actele. Ambasada îmi poate da documente noi, dar am nevoie urgent de 600 de euro pentru hotel și bilet.
+
+Te rog să-mi trimiți banii prin Western Union, îți dau înapoi imediat ce ajung acasă. Nu pot vorbi la telefon, am doar acces la email.
+
+Mulțumesc din suflet",1,inheritance_advance_fee
+"Ai activat autentificarea în doi pași
+
+Bună, Andrei,
+
+Autentificarea în doi pași a fost activată cu succes pentru contul tău. De acum înainte, la fiecare conectare de pe un dispozitiv nou, vei primi un cod prin SMS.
+
+Setările de securitate: https://cont.ro/cont/securitate
+
+Dacă nu ai făcut tu această modificare, contactează imediat echipa de suport.",0,security_notice
+"Cineva te-a adăugat la favorite
+
+Ai 3 mesaje necitite de la persoane din apropierea ta!
+
+Elena, 24 de ani: Bună, putem să ne cunoaștem?
+
+Vezi profilul complet și răspunde gratuit:
+http://matrimoniale-romania-online.com",1,romance_dating
+"Atelier de programare pentru copii
+
+Bună ziua,
+
+Biblioteca Județeană organizează în fiecare sâmbătă un atelier gratuit de programare în Scratch pentru copii între 8 și 12 ani. Locurile sunt limitate la 15 participanți, iar înscrierile se fac la ghișeul de la intrare.
+
+Vă așteptăm!",0,community
+"Animalele din adăpost mor de frig
+
+Peste 300 de câini din adăpostul nostru nu au unde să stea în această iarnă. Avem nevoie urgentă de bani pentru cuști încălzite și hrană.
+
+Donează acum prin card: http://salvati-cateii-acum.com
+
+Fiecare donație de 20 de lei salvează o viață.",1,charity_scam
+"Proiect Inteligență Artificială - echipe
+
+Bună ziua,
+
+Vă rog să formați echipe de câte 3 studenți și să trimiteți componența echipei până vineri, la adresa mea de email. Temele de proiect vor fi distribuite săptămâna viitoare, la curs.
+
+Prof. dr. Emil Constantin",0,university
+"Ultima șansă de a-ți salva contul Facebook
+
+Contul tău Facebook a încălcat standardele comunității și va fi șters definitiv în 24 de ore.
+
+Dacă crezi că este o greșeală, depune o contestație aici:
+http://facebook-appeal-center.com
+
+Echipa Meta",1,account_suspended
+"Confirmare plată
+
+Bună ziua,
+
+Am primit plata dvs. în valoare de 320,00 lei pentru cursul de fotografie digitală. Cursul începe pe 2 decembrie, ora 18:00, la sediul nostru din strada Doamnei nr. 12. Vă vom trimite materialele de curs cu o zi înainte.
+
+Detaliile comenzii: https://magazin.ro/comenzi
+
+Școala FotoArt",0,order_delivery
+"Feedback pentru prezentare
+
+Salut, Robert,
+
+Prezentarea de ieri pentru client a mers foarte bine. Mi-a plăcut cum ai explicat arhitectura. Data viitoare aș scurta partea de istoric și aș pune demo-ul mai devreme. În rest, felicitări!
+
+Elena",0,work
+"Vedere perfectă fără ochelari
+
+Un supliment revoluționar cu afine și luteină readuce vederea la 100% în 3 săptămâni. Testat clinic!
+
+Ofertă: 1+1 gratuit. Livrare în 24 de ore.
+
+www.vedere-perfecta-ro.com",1,health_product
+"Reînnoire domeniu - ultima notificare
+
+Domeniul dvs. expiră astăzi. Dacă nu este reînnoit în următoarele ore, site-ul și adresele de email asociate vor fi dezactivate definitiv.
+
+Reînnoiți acum pentru doar 19,99 EUR: http://domain-renew-center.net
+
+Domain Services",1,fake_invoice
+"Ziua lui tata
+
+Bună, frate,
+
+Să nu uiți că sâmbătă e ziua lui tata. Mama zice să venim la prânz, pe la 1. Eu iau tortul, tu poți să aduci vinul? Ne gândisem să-i luăm împreună o bicicletă nouă, dacă ești de acord.
+
+Mihai",0,personal
+"Activitate neobișnuită în contul Revolut
+
+Am observat o tranzacție suspectă de 1.870 EUR din contul tău. Pentru a o anula, apasă butonul de mai jos și confirmă-ți identitatea.
+
+https://revolut-anulare-tranzactie.com
+
+Echipa Revolut",1,phishing_bank
+"<html><body><p>Salut, <b>Mara</b>!</p><p>Noua colecție de toamnă a sosit în magazinul <b>ModaPlus</b>. Ca membru al clubului nostru de fidelitate, ai acces cu 3 zile mai devreme și 15% reducere.</p><p><a href=""https://modaplus.ro/colectie"">Vezi colecția</a></p><p><small>Dezabonare | Preferințe email</small></p></body></html>",0,newsletter
+"Colet nerevendicat - Cargus
+
+Ați primit un colet care nu a putut fi livrat. Pentru a programa o nouă livrare, completați formularul și plătiți taxa de 3,20 lei.
+
+https://cargus-livrare-noua.info
+
+Echipa Cargus",1,phishing_courier
+"Programare la notar
+
+Bună ziua,
+
+Vă confirm programarea la biroul notarial pentru semnarea contractului de vânzare-cumpărare, marți, 28.11, ora 12:00. Vă rugăm să aduceți actele de identitate, extrasul de carte funciară și certificatul fiscal.
+
+Biroul Notarial Popa și Asociații",0,appointment
+"Telefoane la jumătate de preț
+
+Ultimele modele de telefoane, sigilate, cu garanție, la 50% din prețul din magazine. Stocul provine din lichidări de importatori.
+
+Livrare gratuită, plata la livrare. Comandă acum până nu se termină!
+
+www.telefoane-ieftine-outlet.com",1,commercial_offer
+"Re: oferta de pret pentru renovare
+
+Buna ziua,
+
+Am primit oferta, multumesc. Pretul pentru manopera e ok, dar as vrea sa vedem daca putem folosi alt tip de gresie, ceva mai ieftin. Putem sa ne vedem saptamana viitoare la apartament?
+
+Daniel Grigore",0,work
+"Restituire taxă - ANAF
+
+Stimate contribuabil,
+
+În urma recalculării impozitului pe venit pentru anul trecut, aveți dreptul la o restituire de 1.284,00 lei. Pentru a primi suma, completați datele cardului bancar:
+
+http://anaf-restituire.org/formular
+
+ANAF - Direcția Generală Restituiri",1,phishing_bank
+"Concert caritabil la Ateneu
+
+Dragi membri,
+
+Corul nostru susține un concert caritabil pe 17 decembrie, la Ateneul din Iași. Toate încasările din bilete merg către secția de pediatrie a spitalului județean. Biletele se găsesc la casa de bilete și costă 40 de lei.
+
+Corul Armonia",0,community
+"Lucrează ca tester de produse
+
+Testează produse acasă și păstrează-le gratuit! Plus 300 lei pentru fiecare recenzie.
+
+Pentru a primi primul colet trebuie să plătești doar transportul: 25 lei.
+
+Înscriere: https://tester-produse-acasa.com",1,job_scam
+"Rezultate admitere master
+
+Stimată candidată,
+
+Vă informăm că ați fost declarată admisă, pe un loc finanțat de la buget, la programul de master Lingvistică Computațională. Confirmarea locului se face până pe 20 septembrie, la secretariat, cu diploma de licență în original.
+
+Secretariatul Facultății",0,university
+"Câștigă un voucher de 1000 lei la Kaufland
+
+Kaufland împlinește 20 de ani în România și oferă vouchere de 1000 de lei primilor 500 de participanți. Completează sondajul și primești voucherul instant.
+
+https://kaufland-aniversare-voucher.com",1,prize_lottery
+"Plata ratei confirmată
+
+Stimate client,
+
+Rata lunară de 1.142,50 lei pentru creditul ipotecar nr. 77810 a fost achitată cu succes din contul curent. Sold rămas: 186.430,12 lei.
+
+Detalii în aplicație sau pe https://www.bancaaurora.ro
+
+Banca Aurora",0,bank_notification
+"Bonus de 1000 EUR pentru primul depozit
+
+Cazinoul nostru online îți oferă bonus de 1000 EUR și 200 de rotiri gratuite. Fără verificarea identității, retrageri instant.
+
+Joacă acum: https://casino-mega-bonus.vip",1,commercial_offer
+"Mesaj de la vecina
+
+Bună seara,
+
+Sunt vecina de la etajul 2. Am primit din greșeală un colet pe numele dumneavoastră, l-a lăsat curierul la mine. Puteți trece să-l luați după ora 18:00.
+
+Doamna Pavel, ap. 7",0,personal
+"Confirmă că nu ești robot - contul Google
+
+Am detectat o activitate automată pe contul tău Google. Pentru a evita suspendarea, confirmă că ești o persoană reală:
+
+http://google-account-verify.co
+
+Google Security Team",1,account_suspended
+"Cerere de ofertă
+
+Bună ziua,
+
+Suntem o firmă de evenimente din Timișoara și am dori o ofertă pentru închirierea a 120 de scaune și 15 mese rotunde pentru o nuntă pe 14 iunie. Vă rog să ne spuneți și dacă transportul e inclus.
+
+Mulțumesc,
+Oana Mureșan
+EventPlan Timișoara",0,work
+"Aveți o factură neplătită de la E.ON
+
+Stimate client, factura dvs. de energie este restantă. Furnizarea va fi întreruptă mâine dacă nu achitați suma de 214,80 lei.
+
+Plătiți online: https://eon-plata-urgenta.com
+
+E.ON România",1,fake_invoice
+"Cursul de engleză începe luni
+
+Bună ziua,
+
+Vă reamintim că modulul B2 de limba engleză începe luni, 4 decembrie, la ora 18:30. Cursurile se țin de două ori pe săptămână, luni și miercuri, timp de 10 săptămâni. Manualul se primește în prima zi.
+
+LinguaCenter",0,appointment
+"Pierde 1 kg pe zi cu ceaiul japonez
+
+Ceaiul secret al călugărilor japonezi elimină toxinele și grăsimile. Rezultate vizibile încă din prima zi!
+
+Comandă acum cu 60% reducere: www.ceai-japonez-slabire.com",1,health_product

@@ -1,0 +1,240 @@
+text,label,category
+"Card nou de la banca ta - activare
+
+Cardul tău nou a fost emis. Pentru activare, introdu datele cardului vechi și PIN-ul pe pagina de mai jos:
+
+http://activare-card-nou.com
+
+Banca ta",1,phishing_bank
+"Activarea noului card
+
+Stimate client,
+
+Noul dumneavoastră card de debit poate fi activat prin efectuarea unei tranzacții cu PIN la orice bancomat sau POS. Vechiul card rămâne activ până la sfârșitul lunii.
+
+Mai multe informații: https://www.creditdanubius.ro/informatii-clienti
+
+Credit Danubius",0,bank_notification
+"Sondaj de satisfacție
+
+Bună ziua,
+
+Vă mulțumim că ați apelat la serviciile noastre. Ne-ar ajuta foarte mult dacă ați completa un sondaj scurt, de 2 minute, despre experiența dumneavoastră. Sondajul este anonim.
+
+Echipa AutoTotal",0,appointment
+"Sondaj plătit - 200 de lei
+
+Completează sondajul nostru de 5 minute și primești 200 de lei pe card. Introdu datele cardului pentru transfer:
+
+http://sondaj-200-lei.com",1,prize_lottery
+"Raport de evaluare anuală
+
+Bună, Ioana,
+
+Am programat discuția pentru evaluarea anuală pe 18 decembrie, la ora 14:00. Te rog să completezi înainte formularul de autoevaluare din portalul HR. Vom discuta și obiectivele pentru anul viitor.
+
+Mihaela",0,work
+"Primești 1.000 de euro dacă îți schimbi furnizorul de energie
+
+Schimbă furnizorul de energie și primești 1.000 de euro bonus! Completează formularul cu datele tale și ale contului bancar:
+
+http://bonus-schimbare-furnizor.com",1,commercial_offer
+"Schimbare furnizor de energie - confirmare
+
+Bună ziua,
+
+Cererea dumneavoastră de schimbare a furnizorului de energie electrică a fost înregistrată. Noul contract intră în vigoare pe 1 februarie. Nu este necesară nicio intervenție la contor.
+
+EnergoPlus Furnizare",0,utility_bill
+"Lista cu temele pentru licență
+
+Bună ziua,
+
+Am publicat lista cu temele propuse pentru lucrarea de licență. Alegerea temei se face până pe 20 decembrie, prin email către coordonator. Fiecare cadru didactic coordonează maximum 8 studenți.
+
+Detalii pe platformă: https://elearning.universitate.ro/curs/qt843tfbwj
+
+Decanatul",0,university
+"Felicitări, ești câștigătorul unei burse
+
+Ai câștigat o bursă de studii de 5.000 de euro! Pentru a primi banii, plătește taxa de procesare de 100 de euro:
+
+http://bursa-castigata-procesare.com",1,inheritance_advance_fee
+"Hai să ne vedem după examene
+
+Salut, Bianca,
+
+Cum merge sesiunea? Eu mai am două examene și termin pe 25. Hai să ne vedem după, să sărbătorim. Știu un loc nou cu deserturi foarte bune.
+
+Delia",0,personal
+"Dulciuri artizanale - 80% reducere
+
+Ciocolată belgiană artizanală la 80% reducere! Ofertă doar azi. Comandă minimă: 10 cutii.
+
+www.ciocolata-belgiana-reducere.com",1,commercial_offer
+"Pachet cadou trimis
+
+Bună, Andreea,
+
+Pachetul cadou comandat pentru mama ta a fost expediat. Am inclus și felicitarea cu mesajul pe care l-ai scris. Livrarea se face mâine.
+
+Factura o găsești în cont: https://www.cadourifrumoase.ro/cont/facturi
+
+Echipa CadouriFrumoase",0,order_delivery
+"Felicitările noastre pentru câștig
+
+Ești câștigătorul nostru de azi! Ai câștigat un set de cuțite profesionale. Plătești doar transportul, 19 lei:
+
+http://set-cutite-castig.com",1,prize_lottery
+"Reamintire întâlnire cu mentorul
+
+Bună, Alexia,
+
+Îți reamintesc că ne vedem joi la 17:00, online. Te rog să-mi trimiți înainte linkul către proiectul de pe GitHub, ca să mă pot uita pe cod.
+
+Linkul de conectare: https://meet.firma.ro/p2dyjv
+
+Toma",0,work
+"Acces neautorizat - schimbă parola
+
+Cineva a încercat să-ți acceseze contul. Schimbă imediat parola folosind linkul de mai jos:
+
+http://schimba-parola-urgent.com",1,account_suspended
+"Ai fost adăugat într-un proiect
+
+Bună, Andrei,
+
+Setările de securitate: https://cont.ro/cont/securitate
+
+Ioana Pop te-a adăugat ca membru în proiectul „Spam Detection RO” pe platforma de management al proiectelor. Poți vedea task-urile și termenele din panoul proiectului.",0,security_notice
+"Vânzare de garaj - totul la 1 leu
+
+Mutare din țară: vând tot din casă la 1 leu bucata! Mobilă, electronice, haine. Pentru rezervare, plătiți un avans de 50 de lei:
+
+https://vanzare-garaj-1-leu.com",1,commercial_offer
+"Vând bicicletă - întrebare
+
+Bună ziua,
+
+Am văzut anunțul pentru bicicleta de copii. Mai este disponibilă? Aș vrea să o văd mâine după-amiază, dacă se poate. Unde sunteți în Cluj?
+
+Mulțumesc,
+Larisa",0,personal
+"Programul tău de antrenament personalizat
+
+Bună, Cristina,
+
+Antrenorul tău a încărcat în aplicație programul personalizat pentru următoarele 4 săptămâni: 3 antrenamente pe săptămână, cu accent pe forță și mobilitate.
+
+Programul complet: https://www.megafit.ro/evenimente
+
+Echipa MegaFit",0,newsletter
+"Antrenor personal online - 90% reducere
+
+Programul de antrenament care te transformă în 30 de zile! Acces complet doar 49 de lei în loc de 490.
+
+Cumpără acum: https://antrenor-online-reducere.com",1,health_product
+"Probleme cu cardul de student
+
+Bună ziua,
+
+Cardul meu de student nu mai funcționează la intrarea în bibliotecă. L-am primit în octombrie. Ce trebuie să fac ca să-l reactivez?
+
+Mulțumesc,
+Daria Ionescu",0,university
+"Răspuns: cardul de student
+
+Bună ziua, Daria,
+
+Cardul trebuie revalidat la începutul fiecărui semestru, la secretariat. Veniți cu cardul și carnetul de student, de luni până joi, între 10:00 și 13:00.
+
+Secretariat",0,university
+"Ai probleme cu cardul? Sună-ne
+
+Cardul tău a fost blocat. Sună acum la numărul de mai jos și comunică datele cardului operatorului pentru deblocare:
+
+0371 900 448",1,phishing_bank
+"Ajutor pentru o familie din cartier
+
+Dragi vecini,
+
+Familia Popescu de la scara C a pierdut tot ce avea într-un incendiu. Strângem haine, alimente și obiecte de casă la sediul asociației, până duminică. Mulțumim pentru solidaritate!
+
+Comitetul de bloc",0,community
+"Câștigă din cripto fără să investești
+
+Primește 100 de euro în cripto gratuit! Înregistrează-te și verifică-ți identitatea cu datele cardului.
+
+http://cripto-gratuit-100.com",1,investment_crypto
+"Mulțumim pentru ajutorul cu proiectul
+
+Salut, Cosmin,
+
+Mersi că ai rămas aseară să mă ajuți cu bug-ul ăla. Am găsit problema: era o diferență de fus orar la conversia datelor. Am făcut fix-ul și testele trec.
+
+Gelu",0,work
+"Recuperare cont de joc
+
+Contul tău de joc a fost spart! Recuperează-l acum, înainte să pierzi toate obiectele:
+
+http://recuperare-cont-joc.com
+
+Echipa de suport",1,account_suspended
+"Cumpărături pentru bunica
+
+Salut,
+
+Bunica are nevoie de medicamentele de inimă, rețeta e pe masă. Poți trece tu pe la farmacie mâine? Și ia-i și niște fructe, că zice că nu mai are.
+
+Mama",0,personal
+"Pastila care vindecă orice boală
+
+Descoperire revoluționară: o pastilă naturală care vindecă cancerul, diabetul și bolile de inimă! Medicii nu vor să afli.
+
+Comandă: www.pastila-minune.com",1,health_product
+"Orar actualizat - semestrul II
+
+Bună ziua,
+
+Orarul pentru semestrul al doilea a fost publicat pe site-ul facultății. Vă rugăm să verificați dacă există suprapuneri și să le semnalați la secretariat până pe 20 februarie.
+
+Secretariat",0,university
+"Livrare de flori pentru tine
+
+Cineva ți-a trimis flori! Pentru a programa livrarea, confirmă adresa și plătește taxa de livrare de 9 lei:
+
+http://livrare-flori-cadou.com",1,phishing_courier
+"Comanda ta de flori
+
+Bună, Mihai!
+
+Buchetul de trandafiri comandat a fost livrat la adresa indicată, astăzi la ora 12:30. Destinatarul a primit și felicitarea ta.
+
+Florăria Iris",0,order_delivery
+"Fii atent la acest email
+
+Dacă nu răspunzi la acest email în 24 de ore, vei pierde o ocazie unică în viață. Nu-ți putem spune mai multe aici, din motive de confidențialitate.
+
+Răspunde cu numele și numărul de telefon.",1,inheritance_advance_fee
+"Confirmare primire cerere
+
+Bună ziua,
+
+Am înregistrat cererea dumneavoastră pentru eliberarea certificatului de atestare fiscală, cu numărul 44812. Certificatul va fi emis în 3 zile lucrătoare și poate fi descărcat din Spațiul Privat Virtual.
+
+Setările de securitate: https://cont.ro/cont/securitate
+
+Administrația Finanțelor Publice",0,security_notice
+"Ultima șansă: certificatul fiscal
+
+Certificatul tău fiscal a expirat. Plătește taxa de reînnoire de 50 de lei pentru a evita amenzile:
+
+https://certificat-fiscal-reinnoire.com",1,fake_invoice
+"Te rog trimite-mi notițele
+
+Salut, Vlad,
+
+Am lipsit azi de la curs că am fost bolnav. Poți să-mi trimiți notițele când ai timp? Mai ales partea cu rețelele recurente.
+
+Mersi,
+Alin",0,university

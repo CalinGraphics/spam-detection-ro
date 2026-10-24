@@ -1,0 +1,455 @@
+text,label,category
+"Contul dvs. BancaNova a fost restricționat
+
+Stimate client,
+
+Am detectat o activitate neobișnuită în contul dumneavoastră. Din motive de securitate, accesul la serviciul de internet banking a fost restricționat temporar.
+
+Pentru a reactiva contul, vă rugăm să vă confirmați datele în maximum 24 de ore accesând linkul de mai jos:
+https://bancanova-securitate.com/reactivare
+
+În caz contrar, contul va fi blocat definitiv.
+
+Echipa de Securitate BancaNova",1,phishing_bank
+"Re: proiect PLN
+
+Salut Andrei,
+
+Am terminat partea mea de preprocesare, am pus scriptul în folderul comun. Mai trebuie verificat dacă lematizarea merge pe textele cu diacritice vechi. Ne vedem joi la laborator să le punem cap la cap?
+
+Ioana",0,university
+"Coletul dumneavoastră nu a putut fi livrat
+
+Bună ziua,
+
+Coletul cu numărul AWB 4821903377 nu a putut fi livrat deoarece taxa de procesare de 2,99 lei nu a fost achitată.
+
+Achitați taxa aici pentru reprogramarea livrării: https://rapidcolet-livrare.info/plata
+
+Dacă plata nu este efectuată în 48 de ore, coletul va fi returnat expeditorului.
+
+RapidColet",1,phishing_courier
+"Confirmare comandă #208841
+
+Bună, Mihai!
+
+Îți mulțumim pentru comanda plasată pe Comandix.ro. Mai jos găsești detaliile:
+
+1 x Căști wireless Sonar X2 - 189,99 lei
+Transport: gratuit
+Total: 189,99 lei
+
+Comanda va fi predată curierului în 1-2 zile lucrătoare. Vei primi un email cu numărul AWB când coletul pleacă din depozit.
+
+Echipa Comandix",0,order_delivery
+"FELICITARI!!! Ati castigat un iPhone 15 Pro
+
+Adresa dvs. de email a fost extrasa la tragerea la sorti lunara!
+
+Pentru a revendica premiul trebuie doar sa acoperiti costurile de transport de 9,90 lei. Oferta expira AZI la ora 23:59.
+
+REVENDICA ACUM >>> http://premiul-tau-zilnic.net/claim
+
+Nu rata aceasta sansa unica!",1,prize_lottery
+"Ședința de luni se mută
+
+Bună dimineața tuturor,
+
+Ședința de planificare de luni, 14:00, se mută marți la 10:30, tot în sala Orion de la etajul 3. Vă rog să aveți pregătite estimările pentru sprintul următor.
+
+Mulțumesc,
+Raluca Dobre
+Project Manager",0,work
+"Slăbește 12 kg în 3 săptămâni fără dietă!
+
+Descoperirea care i-a uimit pe medici: capsulele naturale KetoSlim Max ard grăsimea chiar și în timp ce dormi.
+
+✔ 100% natural
+✔ fără efecte secundare
+✔ rezultate garantate
+
+Doar astăzi: 3 cutii la preț de una! Comandă acum, stocul este limitat.
+
+www.ketoslim-oficial.ro",1,health_product
+"Extras de cont - octombrie
+
+Stimate client,
+
+Extrasul de cont pentru perioada 01.10 - 31.10 este disponibil în aplicația Credit Danubius, secțiunea Documente.
+
+Vă reamintim că nu vă vom solicita niciodată prin email parola, codul PIN sau codurile primite prin SMS.
+
+Cu stimă,
+Credit Danubius",0,bank_notification
+"Investește 250 de euro și câștigă 5.000 pe lună
+
+Bună,
+
+Mă numesc Alexandru și până acum 6 luni lucram ca șofer. Astăzi câștig peste 5.000 de euro pe lună din tranzacționare automată cu Bitcoin, fără experiență.
+
+Platforma face totul pentru tine. Un consultant te sună în 15 minute după înregistrare.
+
+Locurile pentru România sunt limitate: http://crypto-profit-romania.biz/start",1,investment_crypto
+"poze de la nunta
+
+Buna Cristina,
+
+Ti-am pus pozele de la nunta lui Vlad pe drive, sunt cam 300, am sters ce era neclar. Zi-mi daca vrei sa-ti fac si un album printat, ca am gasit un loc ok in Cluj.
+
+Pupici,
+Ana",0,personal
+"Factura restantă - acțiune necesară
+
+Bună ziua,
+
+Vă transmitem atașat factura nr. 77812 în valoare de 1.450,00 lei, scadentă de 15 zile. Pentru a evita penalitățile și transmiterea dosarului către o firmă de recuperare, vă rugăm să efectuați plata urgent.
+
+Deschideți factura: https://docs-factura-online.com/view?id=77812
+
+Departament Financiar",1,fake_invoice
+"Newsletter Cărturești de cartier - noutăți de noiembrie
+
+Salut, cititorule!
+
+Luna aceasta avem trei lansări de carte, un club de lectură pentru adolescenți și reduceri de 20% la toată secțiunea de poezie.
+
+Vezi programul complet pe site-ul nostru sau treci pe la noi pe strada Lunii nr. 4.
+
+Mai multe detalii găsiți pe site: https://www.asociatia-noastra.ro/noutati
+
+Te poți dezabona oricând folosind linkul din subsolul acestui email.",0,newsletter
+"Lucrează de acasă 2 ore pe zi - 3.000 lei/săptămână
+
+Căutăm persoane serioase pentru o activitate simplă de acasă. Nu ai nevoie de experiență, doar de un telefon și conexiune la internet.
+
+Pentru înscriere trebuie achitată o taxă unică de 150 lei pentru materialele de instruire.
+
+Trimite un mesaj pe WhatsApp la 0748 112 903 și menționează codul JOB2024.",1,job_scam
+"Programare service auto confirmată
+
+Bună ziua, domnule Popescu,
+
+Vă confirmăm programarea pentru revizia autoturismului Dacia Logan, nr. B 123 XYZ, joi, 16 noiembrie, ora 9:00, la AutoTotal Militari.
+
+Durata estimată a reviziei este de 3 ore. Dacă doriți să reprogramați, ne puteți suna la 021 555 01 23.
+
+Echipa AutoTotal",0,appointment
+"ALERTĂ: Calculatorul dvs. este infectat cu 5 viruși
+
+Protecția antivirus a expirat ieri!
+
+Sistemul a detectat 5 amenințări care vă pot fura parolele și datele bancare. Reînnoiți acum licența cu 80% reducere pentru a elimina virușii.
+
+Sunați imediat la suportul tehnic: +40 31 990 4411
+
+Nu închideți calculatorul până nu vorbiți cu un tehnician.",1,tech_support
+"Factura ta Electrica Furnizare este disponibilă
+
+Bună ziua,
+
+Factura pentru consumul de energie electrică din luna octombrie a fost emisă.
+
+Valoare: 143,27 lei
+Data scadenței: 25.11
+
+Poți plăti factura online din contul tău de client sau la orice ghișeu partener. Dacă ai activat plata prin debit direct, nu trebuie să faci nimic.
+
+Echipa Electrica Furnizare",0,utility_bill
+"Moștenire nerevendicată de 2,4 milioane EUR
+
+Stimate domn / Stimată doamnă,
+
+Sunt avocatul Robert Klein din Londra. Un client al meu, cu același nume de familie ca dumneavoastră, a decedat fără moștenitori, lăsând în cont suma de 2.400.000 EUR.
+
+Vă propun să prezentăm cererea împreună și să împărțim suma 50/50. Totul este legal și confidențial.
+
+Vă rog să-mi răspundeți cu numele complet, adresa și numărul de telefon.",1,inheritance_advance_fee
+"Resetare parolă
+
+Bună, Elena,
+
+Am primit o solicitare de resetare a parolei pentru contul tău Studentia. Dacă tu ai făcut această cerere, folosește codul de mai jos în aplicație:
+
+483 291
+
+Codul expiră în 15 minute. Dacă nu ai cerut resetarea, poți ignora acest mesaj, parola ta rămâne neschimbată.",0,security_notice
+"Te-am văzut pe profilul tău...
+
+Bună, sunt Diana, am 27 de ani și sunt nouă în orașul tău. Ți-am văzut fotografia și mi s-ai părut foarte drăguț.
+
+Am câteva poze pe care nu le pot pune pe Facebook :) Uite-le aici: http://diana-chat-privat.com
+
+Te aștept,
+D.",1,romance_dating
+"Re: Re: anunt grup Linux Iasi
+
+Salutare,
+
+Intalnirea de luna asta va fi pe 22, la hub-ul de pe Palas, de la 18:30. Subiectul principal: migrarea pe Btrfs si snapshot-uri. Cine vrea sa tina un lightning talk de 5 minute sa-mi scrie pana duminica.
+
+Bogdan
+
+> Se stie cand e intalnirea?
+> Marius",0,community
+"Ajută-l pe micuțul Luca să trăiască
+
+Luca are doar 4 ani și suferă de o boală rară. Operația din Germania costă 120.000 de euro, iar familia nu își permite această sumă.
+
+Orice donație contează, chiar și 10 lei. Donează rapid prin card aici: http://ajutor-luca-urgent.org/doneaza
+
+Distribuie mesajul tuturor prietenilor tăi. Dumnezeu să te binecuvânteze!",1,charity_scam
+"Notă examen Algoritmi Paraleli
+
+Bună ziua,
+
+Notele de la examenul de Algoritmi Paraleli au fost încărcate pe platforma facultății. Cei care doresc să își vadă lucrarea pot veni la consultații miercuri, 12:00-14:00, în sala C305.
+
+Detalii pe platformă: https://elearning.universitate.ro/curs/4z83i5r2
+
+Conf. dr. Mihaela Stan",0,university
+"Abonamentul dvs. Netflix a fost suspendat
+
+Nu am putut procesa plata pentru abonamentul lunar.
+
+Pentru a continua să vizionați fără întrerupere, actualizați datele cardului în următoarele 24 de ore:
+
+<a href=""http://netflx-cont-update.com"">Actualizează metoda de plată</a>
+
+Echipa de suport",1,account_suspended
+"Coletul tău e pe drum
+
+Salut,
+
+Comanda ta de la LivroShop a fost predată curierului.
+
+Număr AWB: 2207815539
+Livrare estimată: mâine, între 10:00 și 18:00
+
+Detaliile comenzii: https://livroshop.ro/comenzi
+
+Poți urmări coletul în aplicația curierului folosind numărul AWB de mai sus. Plata se face ramburs, 64,50 lei.",0,order_delivery
+"Raport săptămânal vânzări
+
+Bună, Sorin,
+
+Ți-am atașat raportul de vânzări pentru săptămâna 45. Pe scurt: regiunea Nord-Est a crescut cu 8%, iar Vestul a scăzut ușor din cauza stocului lipsă la modelul M3. Putem discuta mâine dimineață, dacă ai 15 minute?
+
+Alina",0,work
+"Reducere 70% la toate ceasurile de lux
+
+Doar 48 de ore! Ceasuri elvețiene originale la prețuri de fabrică.
+
+Rolex, Omega, Tag Heuer - de la 399 lei!!!
+
+Livrare gratuită în toată țara, plata la livrare.
+
+COMANDĂ ACUM: www.ceasuri-lux-outlet.shop",1,commercial_offer
+"Contul tau de email va fi dezactivat
+
+Stimate utilizator,
+
+Casuta ta de email a depasit limita de stocare. Pentru a evita dezactivarea contului si pierderea mesajelor, valideaza-ti contul accesand linkul de mai jos:
+
+https://webmail-validare-cont.com/login
+
+Echipa Administrare Email",1,account_suspended
+"Mâine la bunica?
+
+Mami,
+
+Mergem mâine la bunica sau rămâne pe sâmbătă? Eu termin la 3 și pot să trec să iau tortul de la cofetărie dacă vrei. Spune-mi ce să mai cumpăr.
+
+Te pup,
+Radu",0,personal
+"Plata nu a fost efectuată - ANAF
+
+Stimate contribuabil,
+
+Conform evidențelor noastre, aveți o obligație fiscală restantă în valoare de 312 lei. Pentru a evita poprirea conturilor, achitați suma în 3 zile lucrătoare prin linkul securizat:
+
+http://anaf-plati-online.info/restanta
+
+Agenția Națională de Administrare Fiscală",1,phishing_bank
+"Bine ai venit în comunitatea Grădinarii Urbani
+
+Salut, Teodora!
+
+Îți mulțumim că te-ai abonat la newsletterul nostru. O dată pe lună îți vom trimite sfaturi de sezon pentru grădina de pe balcon, plus anunțuri despre atelierele gratuite din parcul Titan.
+
+Primul atelier: sâmbătă, ora 11:00, despre compost.
+
+Citește online: https://asociatia-noastra.ro/newsletter/decembrie
+
+Cu drag,
+Echipa Grădinarii Urbani",0,newsletter
+"Ai un mesaj vocal nou
+
+Ai primit un mesaj vocal de la numărul +40 7** *** 219.
+
+Durata: 0:47
+
+Pentru a asculta mesajul, autentifică-te cu contul tău de email:
+http://voicemail-mesaje.net/asculta
+
+Mesajul va fi șters automat după 24 de ore.",1,account_suspended
+"Cerere adeverință student
+
+Bună ziua,
+
+Vă rog să-mi eliberați o adeverință care să ateste că sunt student în anul II la Facultatea de Automatică, necesară pentru bursa socială. Pot veni să o ridic oricând săptămâna aceasta.
+
+Cu stimă,
+Ștefan Ionescu, grupa 322AB",0,university
+"Câștig garantat: 87% profit în 30 de zile
+
+Un fond de investiții exclusivist acceptă 50 de noi parteneri din România. Randament garantat contractual, fără niciun risc.
+
+Investiție minimă: 1.000 EUR
+Retragere oricând
+
+Completează formularul și un manager de cont te va contacta: http://fond-elite-invest.com",1,investment_crypto
+"Confirmare programare analize
+
+Bună ziua,
+
+Programarea dumneavoastră la Laboratorul MedSan pentru analize de sânge a fost confirmată:
+Data: 18.11, ora 08:15
+Locație: Bd. Iuliu Maniu 7
+
+Vă rugăm să vă prezentați nemâncat și să aveți asupra dumneavoastră actul de identitate și biletul de trimitere.",0,appointment
+"Atenție: cardul tău a fost folosit în străinătate
+
+Am blocat o tranzacție de 2.349,00 EUR la un comerciant din Malaezia.
+
+Dacă NU ai efectuat tu această tranzacție, anulează-o imediat introducând datele cardului pe pagina de verificare:
+
+https://verificare-card-securizat.com
+
+Serviciul Antifraudă",1,phishing_bank
+"Re: chirie decembrie
+
+Salut, domnul Marinescu,
+
+Am făcut transferul pentru chiria pe decembrie azi dimineață, 1.800 de lei, ar trebui să ajungă până mâine. Apropo, robinetul din baie iar picură, puteți să trimiteți pe cineva săptămâna asta?
+
+Mulțumesc,
+Laura",0,personal
+"Ultima notificare: coletul dvs. va fi distrus
+
+Coletul dvs. stă în depozitul nostru de 14 zile. Conform regulamentului, coletele nerevendicate vor fi distruse.
+
+Pentru a primi coletul achitați taxa vamală de 4,50 EUR:
+https://posta-colete-vamale.com/plata
+
+Poșta Română - Departament Vamal",1,phishing_courier
+"Alertă de securitate: autentificare nouă
+
+Bună,
+
+Contul tău a fost accesat de pe un dispozitiv nou:
+Windows, Chrome - București, România
+Azi, 21:14
+
+Dacă ai fost tu, nu trebuie să faci nimic. Dacă nu recunoști această activitate, schimbă-ți parola din setările contului.
+
+Echipa de securitate Mailio",0,security_notice
+"c4știg sigur!!! b4ni rapizi de acasa
+
+Vrei sa fac1 b4ni fara sa muncesti?? Sistemul nostru 1ti aduce 500 lei pe zi GARANTAT!!!
+
+Click aici: http://banirapizi.xyz
+
+NU RATA!!!",1,commercial_offer
+"Concediu de odihnă
+
+Bună ziua, doamna Vasilescu,
+
+Vă trimit cererea de concediu de odihnă pentru perioada 23.12 - 03.01, 7 zile lucrătoare. Am vorbit cu Cosmin, care mă va înlocui pe proiectul de facturare în această perioadă.
+
+Cu stimă,
+Florin Neagu",0,work
+"Oportunitate de angajare - asistent online
+
+Bună ziua,
+
+Am găsit CV-ul dumneavoastră pe o platformă de recrutare. Vă oferim un post de asistent online part-time, cu un salariu de 4.500 lei pe lună.
+
+Sarcinile constau în primirea unor transferuri bancare în contul personal și redirecționarea lor către partenerii noștri, păstrând un comision de 10%.
+
+Răspundeți la acest email dacă sunteți interesat.",1,job_scam
+"Factură gaze naturale
+
+Stimate client,
+
+Vă informăm că factura de gaze naturale pentru perioada 15.09 - 15.10 a fost emisă.
+
+Index citit: 4.522 mc
+Valoare de plată: 98,40 lei
+Scadență: 20.11
+
+Puteți plăti online din contul de client: https://www.energaz.ro/plata-facturii
+
+Detalii și plată online în contul de client EnerGaz.",0,utility_bill
+"Felicitări! Ai fost selectat pentru un card cadou de 500 lei
+
+Ești unul dintre cei 100 de clienți fideli selectați pentru un card cadou eMAG în valoare de 500 de lei.
+
+Completează un scurt sondaj de 30 de secunde și primești cardul imediat:
+www.sondaj-card-cadou.com
+
+Oferta este valabilă doar astăzi.",1,prize_lottery
+"Întâlnire club de șah
+
+Bună seara, șahiști,
+
+Turneul rapid de sâmbătă începe la ora 10:00 în sala de festivități a liceului. Taxa de participare este 20 de lei, iar premiile sunt cărți de șah. Aduceți-vă ceasurile dacă aveți.
+
+Vă așteptăm,
+Clubul de Șah Rocada",0,community
+"Re: tema 3 la Baze de Date
+
+Salut,
+
+Pentru exercitiul 4 trebuie sa folosesti LEFT JOIN, altfel pierzi clientii fara comenzi. Eu am facut asa si mi-a iesit 37 de randuri. Daca vrei ma suni diseara si ne uitam impreuna.
+
+Vlad",0,university
+"Pastila albastră - livrare discretă
+
+Probleme în dormitor? Avem soluția!
+
+Pastile originale, fără rețetă, livrare discretă în 24 de ore. Prețuri de la 3 lei/bucată.
+
+Comandați acum pe www.farmacie-discreta-online.net",1,health_product
+"Doar azi: -40% la toate jucăriile
+
+Salut,
+
+Pentru că se apropie Crăciunul, îți oferim 40% reducere la toate jucăriile din magazinul nostru, până la miezul nopții. Folosește codul CRACIUN40 la finalizarea comenzii.
+
+Echipa JucăriiVesele.ro
+
+Primești acest email pentru că te-ai abonat la noutățile noastre. Dezabonare",0,newsletter
+"Propunere de afaceri confidențială
+
+Dragă prietene,
+
+Sunt domnul Ibrahim Musa, director de audit la o bancă din Burkina Faso. Am descoperit un cont inactiv cu 15,5 milioane USD. Am nevoie de un partener străin pentru a transfera fondurile.
+
+Veți primi 40% din sumă. Răspundeți urgent cu datele dumneavoastră personale pentru a începe procedura.",1,inheritance_advance_fee
+"Schimbare orar bibliotecă
+
+Dragi studenți,
+
+Începând de luni, biblioteca facultății va fi deschisă între 8:00 și 20:00, inclusiv sâmbăta între 9:00 și 14:00. Sala de lectură de la etajul 2 rămâne deschisă până la 22:00 în sesiune.
+
+Anunțul complet: https://www.universitate.ro/anunturi/sx6yhr5b
+
+Biblioteca Centrală",0,university
+"Factura Orange pentru luna aceasta - plata eșuată
+
+Plata automată pentru factura dvs. nu a fost procesată. Pentru a evita suspendarea serviciilor, actualizați datele cardului:
+
+https://orange-factura-plata.info
+
+Vă mulțumim,
+Serviciul Clienți",1,fake_invoice

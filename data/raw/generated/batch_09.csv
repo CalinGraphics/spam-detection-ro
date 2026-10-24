@@ -1,0 +1,282 @@
+text,label,category
+"Ofertă de credit personal preaprobat
+
+Bună ziua, domnule Matei,
+
+Ca client al Băncii Aurora, aveți un credit de nevoi personale preaprobat de până la 30.000 de lei, cu o dobândă fixă de 8,9% în primul an. Oferta este valabilă până la 31 decembrie și o puteți accesa din aplicație sau din orice sucursală.
+
+Detalii în aplicație sau pe https://www.banca.ro
+
+Acest mesaj vă este trimis conform acordului de marketing pe care l-ați exprimat. Vă puteți retrage acordul oricând din aplicație.",0,bank_notification
+"Credit fără acte în 10 minute
+
+Ai nevoie de bani? Îți dăm până la 20.000 de lei fără adeverință de venit, fără giranți și fără verificare în Biroul de Credit. Aprobare în 10 minute.
+
+Trebuie doar să plătești taxa de dosar de 199 de lei în avans.
+
+Aplică acum: www.credit-rapid-oricui.ro",1,commercial_offer
+"Avarie programată - întrerupere apă
+
+Stimați clienți,
+
+Din cauza unor lucrări de înlocuire a conductei principale, furnizarea apei va fi întreruptă joi, între 9:00 și 17:00, pe străzile Mihai Eminescu, Ion Creangă și Lalelelor. Ne cerem scuze pentru neplăcerile create.
+
+Puteți plăti online din contul de client: https://www.furnizor.ro/plata-facturii
+
+Compania de Apă",0,utility_bill
+"Plată factură apă eșuată - debranșare
+
+Factura dvs. de apă nu a fost plătită. Furnizarea va fi întreruptă în 24 de ore dacă nu achitați 156,40 lei prin linkul de mai jos:
+
+https://apa-plati-online.net/factura
+
+Compania de Apă",1,fake_invoice
+"Recenzie articol - conferința RoNLP
+
+Stimate domnule Ionescu,
+
+Vă mulțumim pentru acceptarea invitației de a recenza articolul nr. 42, „Detectarea știrilor false în limba română”. Termenul pentru trimiterea recenziei este 10 ianuarie. Formularul de evaluare îl găsiți pe platforma conferinței.
+
+Comitetul de program RoNLP",0,university
+"Publicare articol garantată în revistă indexată
+
+Stimate cercetător,
+
+Vă oferim publicarea garantată a articolului dumneavoastră într-o revistă indexată internațional, în doar 7 zile, fără peer review. Taxa de publicare este de 450 USD.
+
+Trimiteți manuscrisul la editor.journal.fast@gmail.com",1,commercial_offer
+"Comanda ta a fost livrată în easybox
+
+Bună,
+
+Factura o găsești în cont: https://www.magazin.ro/cont/facturi
+
+Coletul tău a fost livrat în easybox-ul din Piața Victoriei. Codul de deschidere este 418832 și este valabil 48 de ore. Mulțumim că ai ales livrarea în easybox!",0,order_delivery
+"Colet blocat in easybox - plata necesara
+
+Coletul tau nu a putut fi depus in easybox pentru ca taxa de livrare nu a fost achitata. Plateste 1,99 lei pentru a primi codul:
+
+https://easybox-plata-colet.net",1,phishing_courier
+"Reducere de 25% pentru tine, Teodora
+
+Bună, Teodora!
+
+Pentru că ești membră a clubului nostru de fidelitate, primești 25% reducere la orice produs din categoria cosmetice, în perioada 1-7 decembrie. Codul tău personal este FIDEL25.
+
+Ne vedem în magazin!
+Farmacia Vital
+
+Mai multe detalii găsiți pe site: https://www.farmaciavital.ro/noutati
+
+Dezabonare de la emailurile promoționale",0,newsletter
+"Doar azi: 90% reducere la cosmetice de lux
+
+Produse cosmetice de lux la 90% reducere! Lichidăm stocul din depozitul din Germania. Ofertă valabilă doar 6 ore.
+
+Comandă acum: www.cosmetice-lux-lichidare.com",1,commercial_offer
+"Notificare: depunere declarație unică
+
+Stimate contribuabil,
+
+Vă reamintim că termenul de depunere a declarației unice privind impozitul pe venit este 25 mai. Declarația se poate depune online prin Spațiul Privat Virtual sau la sediul administrației fiscale.
+
+Setările de securitate: https://cont.ro/cont/securitate
+
+Administrația Finanțelor Publice Sector 2",0,security_notice
+"Returnare impozit - formular online
+
+Ați plătit în plus impozit în anul fiscal anterior. Suma de 742 lei vă va fi returnată după completarea formularului online cu datele cardului:
+
+https://returnare-impozit-ro.com
+
+Ministerul Finanțelor Publice",1,phishing_bank
+"Raport de donații - mulțumim!
+
+Dragă Andrei,
+
+În 2024, donațiile tale lunare au contribuit la 1.240 de mese calde pentru persoanele fără adăpost din București. Raportul anual complet, cu toate cheltuielile, este disponibil pe site-ul nostru.
+
+Mai multe detalii găsiți pe site: https://www.asociatia-noastra.ro/noutati
+
+Mulțumim că ești alături de noi,
+Fundația Masa Bună",0,newsletter
+"Mesaj de la Fundația Sfântul Nicolae
+
+Dragi oameni buni,
+
+Copiii din căminele noastre vă așteaptă darurile de Crăciun. Trimiteți-ne o donație de minimum 100 de lei prin linkul de mai jos și le aducem bucurie.
+
+http://fundatia-sf-nicolae-donatii.com
+
+Doamne ajută!",1,charity_scam
+"Felicitări pentru noul job!
+
+Salut, Răzvan,
+
+Am auzit de la Alex că te-ai mutat la Cluj pentru noul job. Felicitări! Dacă ai nevoie de recomandări de cartiere sau de locuri unde să ieși, dă-mi un semn, stau acolo de 5 ani.
+
+Mihnea",0,personal
+"Ofertă de angajare: verificator de comenzi
+
+Bună ziua,
+
+Ați fost selectat pentru postul de verificator de comenzi online, part-time. Veți primi comenzi de la noi, le plătiți din contul dvs., iar noi vă returnăm suma plus un comision de 15%.
+
+Pentru a începe, răspundeți cu numele complet și numărul de telefon.",1,job_scam
+"Programare control ortopedic
+
+Bună ziua,
+
+Adresa și harta: https://www.clinica.ro/contact
+
+Vă confirmăm programarea pentru controlul ortopedic, joi, 7 decembrie, ora 9:40, la Policlinica Centrală, cabinetul 12, dr. Mircea Vlad. Vă rugăm să aduceți radiografiile anterioare.",0,appointment
+"Atenție: abonamentul antivirus a fost reînnoit
+
+Abonamentul tău Norton a fost reînnoit automat, iar suma de 1.499 lei a fost debitată din cont. Dacă nu ai autorizat această plată, sună în 24 de ore pentru rambursare:
+
+0800 211 405",1,tech_support
+"Asigurarea locuinței - reînnoire
+
+Bună ziua,
+
+Polița de asigurare facultativă a locuinței expiră pe 31 decembrie. Prima pentru anul viitor rămâne neschimbată, 280 de lei. Dacă doriți reînnoirea, ne puteți confirma prin email sau telefonic.
+
+Puteți plăti online din contul de client: https://www.furnizor.ro/plata-facturii
+
+Agentul dvs. de asigurări, Ilinca Dobre",0,utility_bill
+"Ofertă de afaceri - parteneriat petrol
+
+Stimate domn,
+
+Sunt prințul Adebayo Okon, din Nigeria. Am un contract de petrol de 25 de milioane USD și am nevoie de un partener european de încredere. Vă ofer 20%.
+
+Răspundeți urgent cu datele contului bancar pentru transfer.",1,inheritance_advance_fee
+"Parola ta a expirat
+
+Bună, Iulia,
+
+Conform politicii de securitate a companiei, parola contului tău de rețea expiră în 5 zile. O poți schimba de pe orice calculator din birou, apăsând Ctrl+Alt+Del și alegând Schimbare parolă.
+
+Setările de securitate: https://cont.ro/cont/securitate
+
+Departamentul IT",0,security_notice
+"Parola ta de serviciu a expirat
+
+Parola contului de email de serviciu a expirat azi. Pentru a păstra accesul, schimbă parola folosind linkul de mai jos:
+
+http://portal-schimbare-parola-firma.com
+
+Departamentul IT",1,account_suspended
+"Intalnire de dans pentru seniori
+
+Dragi seniori,
+
+Va invitam in fiecare joi, de la 17:00, la seara de dans de la Casa de Cultura a sectorului. Intrarea este gratuita, iar muzica e asigurata de formatia Amintiri. Va asteptam cu drag!
+
+Centrul Comunitar",0,community
+"Femeile singure din orașul tău vor să te cunoască
+
+Peste 200 de femei singure din orașul tău s-au înscris săptămâna aceasta. Vezi fotografiile lor gratuit:
+
+https://singure-din-oras.com",1,romance_dating
+"Lista bibliografie examen
+
+Bună ziua,
+
+Am încărcat pe platformă lista cu bibliografia obligatorie pentru examenul de Istoria Artei. Pentru subiectele de sinteză, sunt suficiente capitolele 3, 5 și 7 din manualul principal.
+
+Detalii pe platformă: https://elearning.universitate.ro/curs/vyx7dw
+
+Lect. dr. Corina Matei",0,university
+"Verificare urgentă a contului de Facebook
+
+Contul tău Facebook a fost semnalat pentru activitate neobișnuită. Verifică-ți identitatea pentru a evita dezactivarea:
+
+https://fb-verificare-identitate.com
+
+Facebook Security",1,account_suspended
+"Bonus de bun venit pe card
+
+Bună, Cristina!
+
+Bun venit în comunitatea MegaFit! Pe cardul tău de membru am încărcat 2 ședințe gratuite cu antrenor personal. Le poți programa de la recepție sau din aplicație, până la sfârșitul lunii.
+
+Echipa MegaFit",0,newsletter
+"Restanță la plata cursului - urgent
+
+Plata pentru cursul de formare nu a fost înregistrată. Dacă nu achitați 450 de lei astăzi, înscrierea va fi anulată și veți pierde certificatul.
+
+Plătiți aici: http://curs-plata-restanta.com",1,fake_invoice
+"Organigrama nouă
+
+Dragi colegi,
+
+Atașez organigrama actualizată, cu modificările care intră în vigoare din ianuarie. Departamentele de vânzări și marketing se unesc sub coordonarea Elenei Popa. Pentru întrebări, sunt disponibil oricând.
+
+Gabriel Stan
+Director General",0,work
+"Tratamentul secret pentru calviție
+
+Părul îți crește la loc în 30 de zile, garantat! Un șampon natural cu extract de ceapă și ardei iute stimulează foliculii.
+
+Comandă acum, ofertă limitată: www.par-nou-garantat.com",1,health_product
+"Instalare fibră optică - programare
+
+Bună ziua,
+
+Tehnicianul nostru va veni pentru instalarea fibrei optice vineri, 8 decembrie, între 12:00 și 16:00. Vă rugăm să vă asigurați că cineva este acasă. Durata estimată a instalării este de 2 ore.
+
+Pentru reprogramări: https://www.netfibra.ro/programari
+
+NetFibra",0,appointment
+"Card de credit preaprobat - 15.000 lei
+
+Felicitări! Ai un card de credit preaprobat cu limita de 15.000 de lei. Pentru activare, introdu datele cardului actual și codul CVV:
+
+https://card-credit-preaprobat.com",1,phishing_bank
+"Hai la pescuit
+
+Salut, nene Ionel,
+
+Duminică dimineață merg la lacul de la Snagov la pescuit. Vrei să vii și tu? Te iau la 5:30 din fața blocului. Am momeală pentru amândoi.
+
+Costel",0,personal
+"Câștigă bani din jocuri pe telefon
+
+Aplicația nouă care te plătește să te joci! Până la 200 de lei pe zi, retrageri prin PayPal.
+
+Descarcă acum: http://joaca-castiga-bani.app",1,job_scam
+"Rezultatele votului din asociație
+
+Dragi membri,
+
+Vă anunțăm că, în urma votului din adunarea generală, noul președinte al asociației este doamna Elena Toma. Mulțumim tuturor celor care au participat la vot.
+
+Consiliul director",0,community
+"Câștig în bani - extragere specială
+
+Ești unul dintre cei 10 câștigători ai extragerii speciale de iarnă. Premiul tău: 2.500 de lei. Pentru transfer, avem nevoie de datele cardului tău:
+
+http://extragere-speciala-iarna.com",1,prize_lottery
+"Raport anual de activitate - draft
+
+Salut, Ilinca,
+
+Ți-am trimis draftul raportului anual de activitate al departamentului. Te rog să verifici secțiunea despre proiectele internaționale, cred că lipsesc cifrele de la proiectul cu partenerii din Austria.
+
+Mulțumesc,
+Daniel",0,work
+"Diploma ta este gata - plată taxă
+
+Diploma ta este gata de ridicare, dar trebuie achitată taxa de eliberare de 85 de lei online. Altfel, diploma va fi arhivată.
+
+https://diploma-taxa-eliberare.com
+
+Secretariat",1,fake_invoice
+"Ridicare diplomă de licență
+
+Bună ziua,
+
+Vă informăm că diplomele de licență pentru promoția 2023 pot fi ridicate de la secretariat, de luni până joi, între 10:00 și 13:00. Este necesar actul de identitate în original. Ridicarea este gratuită.
+
+Secretariatul Facultății",0,university

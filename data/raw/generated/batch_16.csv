@@ -1,0 +1,235 @@
+text,label,category
+"Notificare importantă privind contul de economii
+
+Stimate client,
+
+Contul dumneavoastră de economii a acumulat dobânzi neridicate în valoare de 1.120 de lei. Pentru transferul sumei în contul curent, autentificați-vă și confirmați operațiunea:
+
+http://economii-dobanzi-transfer.com
+
+Departamentul Economii",1,phishing_bank
+"Dobânda capitalizată
+
+Stimate client,
+
+Pentru depozitul la termen ajuns la scadență pe 30 noiembrie, dobânda de 312,40 lei a fost capitalizată, iar depozitul s-a prelungit automat pentru încă 6 luni, în aceleași condiții.
+
+Credit Danubius",0,bank_notification
+"Cazare ieftină la munte de Revelion
+
+Ultimele locuri la cabanele din Bran pentru Revelion: 50 de lei pe noapte! Plata integrală în avans pentru rezervare.
+
+Rezervă: https://cabane-bran-revelion.com",1,commercial_offer
+"Discuție despre colaborare
+
+Bună ziua,
+
+Am văzut portofoliul dumneavoastră de design grafic și aș dori să colaborăm pentru identitatea vizuală a unei cafenele noi din Iași. Ne putem auzi la telefon săptămâna aceasta?
+
+Cu stimă,
+Roxana Lupu",0,work
+"Te rog, deschide atașamentul
+
+Bună ziua,
+
+Am atașat comanda noastră pentru luna aceasta, cum am discutat la telefon. Vă rog să confirmați disponibilitatea produselor.
+
+Comanda_noiembrie.pdf.exe",1,fake_invoice
+"Laborator mutat în altă sală
+
+Bună ziua,
+
+Laboratorul de Baze de Date de miercuri se mută din sala EG301 în EG405, deoarece în sala inițială se fac lucrări de renovare. Ora rămâne aceeași.
+
+Detalii pe platformă: https://elearning.universitate.ro/curs/3nam5i2
+
+As. Ana Petrescu",0,university
+"Ești selectat pentru un interviu de angajare
+
+Felicitări! CV-ul tău a fost selectat pentru un post bine plătit într-o companie multinațională. Pentru programarea interviului, plătește taxa de evaluare a CV-ului de 79 de lei.
+
+http://evaluare-cv-interviu.com",1,job_scam
+"Invitație la interviu
+
+Bună ziua, domnule Ardeleanu,
+
+Vă mulțumim pentru aplicație. Vă invităm la un interviu pentru postul de Programator Python, marți, 12 decembrie, la ora 14:00, la sediul nostru din strada Fabricii 30. Interviul durează aproximativ o oră.
+
+Echipa de recrutare NovaTech",0,work
+"Rata ta lunară poate scădea la jumătate
+
+Refinanțează-ți creditele și plătește jumătate din rata actuală! Aprobare garantată, fără verificări. Taxa de analiză a dosarului: 150 de lei.
+
+Aplică acum: http://refinantare-garantata.com",1,commercial_offer
+"Mulțumim pentru donarea de sânge
+
+Dragă donator,
+
+Îți mulțumim că ai donat sânge săptămâna trecută. Donația ta poate salva până la trei vieți. Poți dona din nou începând cu 15 februarie.
+
+Formularul de înscriere: https://forms.gle/ufxqme
+
+Centrul de Transfuzie Sanguină",0,community
+"Donează sânge și primești 500 de lei
+
+Centrul nostru plătește 500 de lei pentru fiecare donare de sânge! Înscrie-te online și completează datele cardului pentru plată:
+
+https://donare-sange-platita.com",1,charity_scam
+"Excursie la munte - detalii
+
+Salut, tuturor,
+
+Ne întâlnim sâmbătă la 6:30 la Gara de Nord. Trenul spre Bușteni pleacă la 7:00. Luați echipament de munte, apă și ceva de mâncare pentru toată ziua. Traseul e de aproximativ 6 ore.
+
+Cristi",0,personal
+"Aplicație care îți arată cine te urmărește
+
+Descoperă cine îți urmărește profilul pe Instagram! Instalează aplicația noastră gratuită și autentifică-te cu contul de Instagram:
+
+https://cine-te-urmareste-app.com",1,account_suspended
+"Noua ta parolă a fost setată
+
+Bună, Radu,
+
+Mai multe despre siguranța contului: https://www.cont.ro/ajutor/securitate
+
+Parola contului tău de student a fost resetată cu succes. Dacă nu ai cerut tu această resetare, contactează imediat Centrul IT al universității.",0,security_notice
+"Super ofertă de laptopuri
+
+Laptopuri gaming la jumătate de preț! Ultimele modele, sigilate, cu garanție de 3 ani. Stoc limitat.
+
+Comandă acum: www.laptopuri-gaming-ieftine.com",1,commercial_offer
+"Prezentare de produs - feedback
+
+Bună ziua,
+
+Vă mulțumim pentru prezentarea de ieri. Am discutat intern și suntem interesați să testăm platforma voastră pentru o perioadă de probă de 30 de zile. Vă rog să ne trimiteți condițiile.
+
+Andrei Popa, Director IT, LogiTrans",0,work
+"Mesaj de la Asociația Victimelor Fraudelor
+
+Ați fost victima unei fraude online? Asociația noastră vă poate recupera banii. Completați formularul cu datele cardului pe care s-a produs frauda:
+
+https://victime-frauda-recuperare.com",1,phishing_bank
+"Ai vreo idee pentru cadoul lui Vlad?
+
+Salut, Ana,
+
+Se apropie ziua lui Vlad și nu știu ce să-i iau. Tu îl cunoști mai bine, ai vreo idee? M-am gândit la un set de cărți sau la bilete la un meci.
+
+Mulțumesc,
+Diana",0,personal
+"Fii sănătos în 7 zile
+
+Programul nostru de detoxifiere te face să te simți cu 10 ani mai tânăr în doar 7 zile. Kitul complet costă 399 de lei.
+
+Comandă: www.detox-7-zile.com",1,health_product
+"Reamintire: vaccinul câinelui
+
+Bună ziua,
+
+Vă reamintim că vaccinul antirabic al câinelui Rex expiră pe 20 decembrie. Vă rugăm să faceți o programare pentru rapel.
+
+Pentru reprogramări: https://www.clinica.ro/programari
+
+Cabinetul Veterinar Dr. Vet Center",0,appointment
+"Ai fost amendat pentru parcare neregulamentară
+
+Primăria a emis o amendă de 300 de lei pentru parcarea neregulamentară a mașinii tale. Plătește online în 48 de ore pentru a beneficia de reducere:
+
+http://amenzi-parcare-primarie.com",1,fake_invoice
+"Abonament parcare de reședință
+
+Bună ziua,
+
+Cererea dumneavoastră pentru abonamentul de parcare de reședință a fost aprobată. Locul alocat este nr. 14, în parcarea din spatele blocului C3. Abonamentul costă 120 de lei pe an și poate fi achitat la casieria primăriei.
+
+Puteți plăti online din contul de client: https://www.furnizor.ro/plata-facturii
+
+Direcția Parcări",0,utility_bill
+"Iubire online te așteaptă
+
+Hei, sunt Cristina! Am văzut că ești singur, la fel ca mine. Vrei să ne cunoaștem? Am un cont pe site-ul ăsta:
+
+http://cristina-dating-ro.com",1,romance_dating
+"Rezultate admitere - sesiunea de toamnă
+
+Bună ziua,
+
+Rezultatele admiterii la sesiunea de toamnă sunt afișate pe site. Confirmarea locului se face în perioada 18-20 septembrie, la secretariat. Pentru locurile cu taxă, este necesară și achitarea primei tranșe.
+
+Comisia de admitere",0,university
+"Ai fost invitat la un eveniment exclusiv
+
+Ai fost invitat la gala exclusivistă a investitorilor din România. Biletul de intrare costă 500 de euro, dar include acces la oportunități de investiții cu randament de 50%.
+
+Rezervare: http://gala-investitori-ro.com",1,investment_crypto
+"Lansarea noului magazin
+
+Dragi clienți,
+
+Avem plăcerea să vă anunțăm deschiderea noului nostru magazin din Militari Shopping, sâmbătă, 9 decembrie. În ziua deschiderii, toate produsele au 20% reducere, iar primii 100 de clienți primesc un cadou.
+
+Mai multe detalii găsiți pe site: https://www.casadecor.ro/noutati
+
+Echipa CasaDecor",0,newsletter
+"Ai un mesaj nou de la Poliția Română
+
+Ați fost citat pentru o anchetă privind fraude informatice. Pentru a evita mandatul de aducere, descărcați citația și contactați-ne urgent:
+
+http://politia-citatie-online.com",1,fake_invoice
+"Felicitare de Crăciun
+
+Dragă Luminița,
+
+Îți doresc un Crăciun liniștit, cu familia aproape și cu masa plină. Mulțumesc pentru tot ajutorul de anul acesta la birou. Ne vedem în ianuarie!
+
+Cu drag,
+Carmen",0,personal
+"Câștigă bani din traduceri online
+
+Platforma noastră de traduceri te plătește 50 de euro pe pagină! Nu ai nevoie de experiență sau diplomă.
+
+Taxa de înscriere: 30 de euro. Înscrie-te: https://traduceri-platite-online.com",1,job_scam
+"Ofertă de traducere
+
+Bună ziua,
+
+Pentru traducerea documentului de 12 pagini din engleză în română, vă pot oferi un preț de 35 de lei pe pagină, deci 420 de lei în total. Termenul de livrare ar fi de 4 zile lucrătoare.
+
+Documentul e și aici: https://drive.firma.ro/d/kr4rtha9
+
+Cu stimă,
+Alexandra Rusu, traducător autorizat",0,work
+"Atenție: telefonul tău nu mai are spațiu
+
+Telefonul tău e plin de viruși și fișiere inutile! Instalează aplicația noastră și eliberează 10 GB în 30 de secunde:
+
+http://curata-telefonul-acum.com",1,tech_support
+"Program sărbători - bancă
+
+Stimate client,
+
+Vă informăm că pe 25, 26 decembrie și 1, 2 ianuarie unitățile băncii vor fi închise. Bancomatele și aplicația mobilă funcționează normal.
+
+Banca Aurora",0,bank_notification
+"Tombola de Revelion
+
+Participă la tombola de Revelion și câștigă o mașină nouă! Biletul costă doar 20 de lei, iar extragerea are loc pe 31 decembrie.
+
+Cumpără bilet: http://tombola-revelion-masina.com",1,prize_lottery
+"Discuție despre notă
+
+Bună ziua, domnule profesor,
+
+Aș dori să discutăm despre nota de la proiect, deoarece nu înțeleg de ce s-au scăzut puncte la secțiunea de testare. Pot să vin la consultații joi?
+
+Cu stimă,
+Iulian Barbu",0,university
+"Raport de livrare pentru firma ta
+
+Bună ziua,
+
+Coletul expediat de firma dumneavoastră a fost returnat din cauza unei adrese incorecte. Pentru a reprograma livrarea, accesați portalul de expeditori:
+
+http://portal-expeditori-colete.com",1,phishing_courier

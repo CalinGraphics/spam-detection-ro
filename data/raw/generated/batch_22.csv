@@ -1,0 +1,252 @@
+text,label,category
+"Update pe task-ul de deploy
+
+Salut, team,
+
+Deploy-ul pe production e programat pentru joi la 22:00. Am pregătit rollback plan-ul în caz că apar probleme. Vă rog să fiți online pe chat până la 23:00, just in case.
+
+Thanks,
+Adrian",0,work
+"Account verification required
+
+Stimate utilizator,
+
+Contul dvs. necesita verificare urgenta. Please verify your account within 24 hours, otherwise it will be suspended.
+
+Click here: https://account-verify-ro.com
+
+Support Team",1,account_suspended
+"Feedback la code review
+
+Salut, Vlad,
+
+Am lăsat câteva comentarii pe PR. Nimic major, doar naming și un edge case la validarea input-ului. După ce le rezolvi, fac approve și putem face merge.
+
+Cosmin",0,work
+"Business opportunity - parteneriat profitabil
+
+Dear partner,
+
+Va contactam pentru o oportunitate de business unica. Investitie minima 5.000 EUR, return garantat 300% in 6 luni.
+
+Contact: business.opportunity.ro@gmail.com",1,investment_crypto
+"Weekly report - echipa de suport
+
+Bună tuturor,
+
+Săptămâna aceasta am rezolvat 142 de tichete, cu un timp mediu de răspuns de 2 ore și 15 minute. Am avut 3 incidente critice, toate rezolvate în SLA. Detaliile sunt în dashboard.
+
+Teodora, Support Lead",0,work
+"Your package is waiting - coletul tau
+
+Coletul tau asteapta livrarea. Your package could not be delivered due to unpaid fees. Plateste 2,99 EUR:
+
+https://package-delivery-fee.com",1,phishing_courier
+"Invitație la workshop intern
+
+Dragi colegi,
+
+Joi, la 15:00, organizăm un workshop intern despre bune practici în testarea automată. Prezintă Ioana de la echipa de QA. Workshopul e opțional, dar recomandat pentru toți developerii.
+
+Linkul de conectare: https://meet.firma.ro/anzq6e
+
+Echipa de Learning & Development",0,work
+"Earn money from home - castiga bani de acasa
+
+Castiga pana la 5.000 EUR pe luna lucrand de acasa! No experience needed, no investment.
+
+Apply now: https://earn-from-home-ro.com",1,job_scam
+"Mulțumiri pentru sprijinul de anul acesta
+
+Dragi colegi,
+
+La final de an, vreau să vă mulțumesc pentru tot efortul. Am livrat 4 proiecte mari, am crescut echipa cu 6 oameni și am avut cei mai mulțumiți clienți de până acum. Vă doresc sărbători liniștite!
+
+Gabriel Stan",0,work
+"Ultima zi de Cyber Monday!!!
+
+Ultimele ore de reduceri!!! Totul la -80%!!! Electronice, haine, jucarii!!!
+
+Shop now: www.cyber-monday-ro.shop",1,commercial_offer
+"Reducerile de Black Friday la noi
+
+Bună, Mara!
+
+Black Friday începe vineri la miezul nopții. Ca membră a clubului nostru, ai acces la reduceri cu 24 de ore mai devreme. Reducerile ajung până la 50% la colecția de toamnă.
+
+Programul complet: https://www.modaplus.ro/evenimente
+
+Echipa ModaPlus",0,newsletter
+"Raspuns automat: in concediu
+
+Buna ziua,
+
+Sunt in concediu pana pe 3 ianuarie, cu acces limitat la email. Pentru urgente, va rog sa o contactati pe colega mea, Alina Popa, la alina.popa@firma.ro.
+
+Multumesc,
+Sorin Neagu",0,work
+"Factura pentru serviciile de hosting
+
+Stimate client,
+
+Serviciul de hosting expiră astăzi. Pentru a evita ștergerea site-ului și a tuturor datelor, achitați factura de 89 de euro:
+
+https://hosting-reinnoire-factura.com",1,fake_invoice
+"Factură hosting - reînnoire anuală
+
+Bună ziua,
+
+Abonamentul anual de hosting pentru domeniul firma-mea.ro se reînnoiește pe 15 ianuarie. Valoarea facturii este de 420 de lei. Plata se face automat de pe cardul înregistrat.
+
+HostRO",0,utility_bill
+"Sesizare: reclamație depusă împotriva ta
+
+O reclamație a fost depusă împotriva ta la Protecția Consumatorului. Descarcă documentul și răspunde în 48 de ore:
+
+http://reclamatie-protectia-consumatorului.com",1,fake_invoice
+"Reclamație înregistrată
+
+Bună ziua,
+
+Reclamația dumneavoastră privind produsul defect a fost înregistrată cu numărul 7712. Vă vom răspunde în maximum 15 zile lucrătoare.
+
+Factura o găsești în cont: https://www.techzone.ro/cont/facturi
+
+Serviciul Clienți TechZone",0,order_delivery
+"Te-am adăugat pe lista de invitați
+
+Salut! Te-am adăugat pe lista VIP pentru petrecerea de sâmbătă. Intrarea costă 100 de lei, plătește online ca să-ți rezervi locul:
+
+https://petrecere-vip-lista.com",1,commercial_offer
+"Petrecere de ziua mea
+
+Salut, tuturor,
+
+Sâmbătă fac 30 de ani și vreau să sărbătoresc cu voi! Ne vedem la mine acasă de la 19:00. Nu aduceți cadouri, doar voie bună.
+
+Am găsit aici: https://www.youtube.com/watch?v=f9a287h6d
+
+Andrei",0,personal
+"Bilet de avion gratuit pentru tine
+
+Compania noastră aeriană aniversează 50 de ani și oferă 2 bilete de avion gratuite primilor 1.000 de participanți. Completează sondajul:
+
+https://bilete-avion-gratuite-aniversare.com",1,prize_lottery
+"Zborul tău a fost modificat
+
+Bună ziua,
+
+Zborul RO305 din 14 decembrie a fost reprogramat de la 07:10 la 09:45. Rezervarea dumneavoastră rămâne valabilă. Dacă ora nouă nu vă convine, puteți solicita o rambursare integrală.
+
+TAROM",0,appointment
+"Atenție la apeluri false
+
+Stimate client,
+
+Vă atenționăm că în ultima perioadă au fost raportate apeluri telefonice false, în care persoane care pretind că sunt angajați ai băncii cer coduri și date ale cardului. Banca nu vă va cere niciodată aceste informații.
+
+Banca Aurora",0,bank_notification
+"Ai fost sunat de la bancă?
+
+Ai primit un apel de la bancă? Pentru a confirma că apelul a fost legitim, introdu datele cardului pe pagina noastră de verificare:
+
+https://verificare-apel-banca.com",1,phishing_bank
+"Raport medical pentru angajator
+
+Bună ziua,
+
+Vă trimit raportul medical solicitat pentru reluarea activității, semnat de medicul de medicina muncii. Sunt apt pentru muncă începând de luni.
+
+Cu stimă,
+Cezar Badea",0,work
+"Certificat medical online - fără consultație
+
+Obține un certificat medical online în 10 minute, fără consultație! Doar 99 de lei.
+
+https://certificat-medical-rapid.com",1,health_product
+"Atelier de ceramică
+
+Bună, tuturor,
+
+Atelierul de ceramică de sâmbătă se mută la 14:00, din cauza unui eveniment care are loc dimineață în sală. Aduceți haine pe care nu vă pare rău să le pătați!
+
+Citește online: https://asociatia-noastra.ro/newsletter/decembrie
+
+Atelierul Lut și Foc",0,newsletter
+"Ai un credit preaprobat la noi
+
+Felicitări! Ai un credit preaprobat de 25.000 de lei. Pentru a primi banii, confirmă datele cardului:
+
+https://credit-preaprobat-25000.com",1,phishing_bank
+"Pierdut portofel
+
+Bună ziua,
+
+Am găsit un portofel în parcul Titan, pe o bancă de lângă lac. Am găsit în el și o carte de vizită cu adresa dumneavoastră de email. Vă rog să mă contactați ca să vi-l returnez.
+
+Mihai, 0744 300 211",0,personal
+"Am găsit telefonul tău
+
+Am găsit telefonul tău. Pentru a ți-l returna, intră pe link și confirmă datele contului iCloud:
+
+http://telefon-gasit-icloud.com",1,account_suspended
+"Mulțumim pentru donația de cărți
+
+Bună ziua,
+
+Vă mulțumim pentru cele 35 de cărți donate bibliotecii școlii. Ele vor fi incluse în fondul de carte de săptămâna viitoare.
+
+Biblioteca Școlii Gimnaziale nr. 5",0,community
+"Mulțumim pentru donație - mai e nevoie de una
+
+Vă mulțumim pentru donația de luna trecută! Copiii au nevoie din nou de ajutorul dumneavoastră. Donați din nou acum:
+
+https://donatie-repetata-copii.com",1,charity_scam
+"Program de mentorat - aplicații deschise
+
+Dragi studenți,
+
+Programul de mentorat cu absolvenți primește aplicații până pe 31 ianuarie. Veți fi îndrumați timp de 6 luni de un profesionist din domeniul vostru.
+
+Asociația Absolvenților",0,university
+"Ai fost acceptat în programul de mentorat
+
+Felicitări! Ai fost acceptat în programul nostru exclusivist de mentorat pentru milionari. Taxa de participare este de 2.000 de euro.
+
+https://mentorat-milionari.com",1,commercial_offer
+"Iti multumesc pentru ajutor
+
+Buna, Ioana,
+
+Iti multumesc mult ca m-ai ajutat cu cererea pentru bursa. Am depus-o azi si mi-au zis ca e completa. Iti datorez o cafea!
+
+Daria",0,university
+"Vreau sa te cunosc mai bine
+
+Buna! Am vazut poza ta si as vrea sa te cunosc mai bine. Am un profil pe site-ul asta, intra si scrie-mi:
+
+http://dating-romania-fete.com",1,romance_dating
+"Nu uita: ședința de bloc
+
+Bună seara,
+
+Vă reamintim că mâine, la ora 19:00, are loc ședința asociației în holul blocului. Discutăm despre schimbarea ușii de la intrare.
+
+Administrator",0,community
+"Asigurare de viață gratuită
+
+Primești gratuit o asigurare de viață de 100.000 de euro! Completează formularul cu datele personale și ale cardului:
+
+http://asigurare-viata-gratuita.com",1,commercial_offer
+"Polița de asigurare de viață
+
+Bună ziua,
+
+Vă trimitem polița de asigurare de viață semnată. Prima lunară, de 120 de lei, se va debita automat din contul dumneavoastră pe data de 5 a fiecărei luni.
+
+Agentul dvs. de asigurări, Ilinca Dobre",0,bank_notification
+"Pierde 5 kg în weekend
+
+Dieta de weekend care te face să pierzi 5 kg în 2 zile! Planul complet costă doar 19 lei.
+
+Descarcă acum: http://dieta-weekend-5kg.com",1,health_product
