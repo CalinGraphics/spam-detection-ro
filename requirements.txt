@@ -4,6 +4,7 @@ numpy
 pyyaml
 tqdm
 beautifulsoup4
+pyarrow
 
 # Classical ML
 scikit-learn
@@ -21,6 +22,8 @@ torch
 transformers
 datasets
 accelerate
+sentencepiece
+sacremoses
 
 # Evaluation and explainability
 matplotlib
@@ -30,3 +33,4 @@ lime
 # Notebooks and demo
 jupyter
 streamlit
+pytest

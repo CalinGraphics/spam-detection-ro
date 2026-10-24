@@ -14,6 +14,12 @@ data:
   val_size: 0.15
   random_state: 42
 
+translation:
+  model_name: Helsinki-NLP/opus-mt-en-ro
+  max_segment_tokens: 200    # well under Marian's 512 limit; long inputs degrade quality
+  batch_size: 32
+  num_beams: 2
+
 preprocessing:
   lowercase: true
   normalize_diacritics: true
